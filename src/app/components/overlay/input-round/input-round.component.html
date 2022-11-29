@@ -1,0 +1,3 @@
+<div class="container">
+    <button *ngFor="let round of rounds; let i = index" [ngClass]="{'active': round == selectedRound, 'visited': round.isVisited(), 'marked': round.isFullyRevealed}" (click)="selectedRoundChange.emit(round)">{{i + 1}}</button>
+</div>

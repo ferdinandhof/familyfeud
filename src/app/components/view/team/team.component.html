@@ -1,0 +1,9 @@
+<div class="outer">
+    <div class="inner" [style.background]="team.color">
+        <div class="content">
+            <span class="score">{{team.score}}</span>
+            <span class="name">{{team.name}}</span>
+            <span class="strikes"><span *ngFor="let strike of makeArray(team.strikes)">❌</span></span>
+        </div>
+    </div>
+</div>

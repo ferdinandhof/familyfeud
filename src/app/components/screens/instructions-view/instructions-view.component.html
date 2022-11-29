@@ -1,0 +1,23 @@
+<h1 class="bold">Instructions</h1>
+
+<ul [ngClass]="{'visible': state.instructionStep > 0}">
+    <h1 class="bold">1. Questions</h1>
+    <li [ngClass]="{'visible': state.instructionStep > 1}">Questions be like "Name an alibi for skipping school"</li>
+    <li [ngClass]="{'visible': state.instructionStep > 2}">Answers be like "Being ill"</li>
+</ul>
+
+<ul [ngClass]="{'visible': state.instructionStep > 3}">
+    <h1 class="bold">2. Start Round</h1>
+    <li [ngClass]="{'visible': state.instructionStep > 4}">One each to the podium</li>
+    <li [ngClass]="{'visible': state.instructionStep > 5}">Answer is read - Hit buzzer to give an answer</li>
+    <li [ngClass]="{'visible': state.instructionStep > 6}">Then contestant gets to answer</li>
+    <li [ngClass]="{'visible': state.instructionStep > 7}">Whoever gets more points can choose to play round with the team</li>
+</ul>
+
+<ul [ngClass]="{'visible': state.instructionStep > 8}">
+    <h1 class="bold">3. Play Round</h1>
+    <li [ngClass]="{'visible': state.instructionStep > 9}">Team members get two answer in turns</li>
+    <li [ngClass]="{'visible': state.instructionStep > 10}">Strike when answer not on the board</li> 
+    <li [ngClass]="{'visible': state.instructionStep > 11}">If three strikes other team can steal</li>
+    <li [ngClass]="{'visible': state.instructionStep > 12}">If other team gets one answer on the board they get all the points</li>
+</ul>

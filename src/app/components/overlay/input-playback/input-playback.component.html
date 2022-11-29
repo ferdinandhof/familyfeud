@@ -1,0 +1,9 @@
+<button (click)="mediaState.playPauseMusic()"><img src="/assets/button/{{ mediaState.musicIsPlaying ? 'pause' : 'play' }}.svg"/></button>
+<button (click)="mediaState.stopMusic()"><img src="/assets/button/stop.svg"/></button>
+<div class="slider">
+    <button (click)="mediaState.volumeDown()"><img src="/assets/button/minus.svg"/></button>
+    <div class="track">
+        <div class="progress" [style.width.%]="mediaState.volume * 100"></div>
+    </div>
+    <button (click)="mediaState.volumeUp()" [ngClass]="{'disabled': mediaState.isFullVolume}"><img src="/assets/button/plus.svg"/></button>
+</div>

@@ -1,0 +1,173 @@
+:host {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+/* img {
+    position: absolute;
+} */
+
+h1 {
+    margin: 0px 0px;
+}
+
+p {
+    margin: 0px;
+}
+
+/* CONTENT */
+.content{
+    margin: 50px;
+    background-image: linear-gradient(180deg, var(--bgGradiendtColor1), var(--bgGradiendtColor2));
+    border-radius: var(--bgBorderRadius);
+
+    flex-grow: 1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.content.state_0 {
+    margin: 0px;
+    border-radius: 0px;
+}
+
+.content.state_1 {
+    transition: 5.0s;
+}
+
+/* Bar */
+.bar {
+    position: absolute;
+    height: 90px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.bar .team {
+    padding: 5px;
+    transition: transform 0.3s, box-shadow 1.0s;
+}
+
+.bar .team.active {
+    transform: scale(1.5);    
+}
+
+.bar .team > div {
+    height: 100%;
+    padding: 0px 40px;
+    display: flex;
+    align-items: center;
+}
+
+/* Red */
+.bar .team.red {
+    border-top-right-radius: 25px;
+    background: linear-gradient(180deg, #FF454E 0%, #771B1E 100%);
+    transform-origin: 0% 100%;
+}
+
+.bar .team.red > div {
+    border-top-right-radius: 20px;
+    background: #c81f27;
+}
+
+
+/* Blue */
+.bar .team.blue {
+    border-top-left-radius: 25px;
+    background: linear-gradient(180deg, #71d2ff 0%, #2f718f 100%);
+    transform-origin: 100% 100%;
+}
+
+.bar .team.blue > div {
+    border-top-left-radius: 20px;
+    background: #2ca2d9;
+}
+
+/* Buzzed */
+.bar .team.red.active.buzzed {
+    box-shadow: 0 0 200px 150px #FF454E;
+}
+
+.bar .team.blue.active.buzzed {
+    box-shadow: 0 0 200px 150px #71d2ff;
+}
+
+/* Team Content */
+.bar .team span {
+    color: white;
+    font-weight: bold;
+}
+
+.bar .team span.name{
+    font-size: 15pt;
+}
+
+.bar .team span.score{
+    font-size: 24pt;
+}
+
+.bar .team span + span {
+    margin-left: 40px;
+}
+
+/*  Team Strikes */
+.bar .team .strikes {
+    font-size: 42px;
+    text-shadow: 0px 2px rgba(0, 0, 0, 0.8);
+}
+
+.bar .team .strikes > * + *{
+    margin-left: 2px;
+}
+
+/* Wrong X */
+.wrong {
+    overflow: hidden;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+
+    /* display: none; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: rgba(0, 0, 0, 0.0);
+
+    pointer-events: none;
+}
+
+.wrong.visible {
+    transition: background 0.2s;
+    background: rgba(111, 0, 0, 0.629);
+}
+
+.wrong img {
+    margin: 20px;
+    width: 25%;
+    opacity: 0.0;
+    /* transform: scale(30.0) translateY(-100px); */
+}
+
+.wrong.visible img{
+    opacity: 1.0;
+    /* transition: 0.3s; */
+    /* transform: scale(1.0); */
+}

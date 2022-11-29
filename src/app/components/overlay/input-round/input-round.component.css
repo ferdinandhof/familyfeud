@@ -1,0 +1,43 @@
+:host {
+    --buttonSpacing: 5px;
+
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-top: 10px;
+    
+    display: block;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: calc(-0.5 * var(--buttonSpacing));
+}
+
+button{
+    margin: calc(0.5 * var(--buttonSpacing));
+    width: calc(100% / 20 - var(--buttonSpacing));
+    flex-grow: 1;
+    flex-basis: 1;
+    background: none;
+}
+
+button:hover {
+    background: rgb(56, 56, 56);
+}
+
+button.active {
+    background: white !important;
+    color: black !important;
+}
+
+button.visited {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+button.marked {
+    background: rgba(255, 166, 0,1.0);
+    color: white;
+}

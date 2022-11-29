@@ -1,0 +1,10 @@
+<div class="card title" [ngClass]="{'visible': isTitleVisible}" >
+    <app-title class="light"></app-title>
+</div>
+
+<!-- <img class="hosted" [ngClass]="{'visible': isHostedVisible}" src="/assets/hosted.svg"/> -->
+<img class="figure" [ngClass]="{'visible': isFigureVisible}" src="/assets/figure.png"/>
+<div class="hosted" [ngClass]="{'visible': isFigureVisible}">
+    <p>Hosted By</p>
+    <h1>{{host}}</h1>
+</div>

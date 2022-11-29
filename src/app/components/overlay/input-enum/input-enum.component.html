@@ -1,0 +1,3 @@
+<div class="container">
+    <button class="enum" *ngFor="let option of options;" [ngClass]="{'active': option.associated == selectedType}" (click)="selectedTypeChange.emit(option.associated)">{{option.title}}</button>
+</div>

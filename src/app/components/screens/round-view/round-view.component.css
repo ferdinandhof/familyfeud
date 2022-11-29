@@ -1,0 +1,69 @@
+.round{
+    width: 70vw;
+    height: 80vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-direction: column;
+}
+
+.round app-title{
+    transform: translateZ(10px);
+    margin-bottom: 50px;
+}
+
+.round app-score{
+    align-self: center;
+}
+
+.round .card {
+    padding: 30px;
+    flex-grow: 1;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.round .card h1 {
+    color: white;
+    text-align: center;
+    font-family: "Arial Black";
+    margin: 0px 10px 40px 10px;
+    font-size: 25pt;
+}
+
+.round .card h3 {
+    /* position: absolute; */
+    
+    text-align: center;
+    font-weight: bold;
+    align-self: center;
+    margin: -30px 0px 20px 0px;
+    font-size: 15pt;
+
+    text-transform: uppercase;
+
+    color: var(--cardBGColor);
+    padding: 4px 20px;
+    border-bottom-right-radius: calc(var(--cardBorderRadius) / 2);
+    border-bottom-left-radius: calc(var(--cardBorderRadius) / 2);
+    /* border: 5px solid #76DDFB; */
+    background: var(--cardLineColor);
+
+    transform: translateZ(20px);
+}
+
+.round .card h1.hidden {
+    opacity: 0.0;
+}
+
+.round .card .answers{
+
+    display: grid;
+    grid-template: repeat(4, 1fr) / repeat(2, 1fr);
+    grid-auto-flow: column;
+    gap: 10px 10px;
+
+    flex-grow: 1;
+}

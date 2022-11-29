@@ -1,0 +1,151 @@
+:host {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+
+    backdrop-filter: none;
+    background: rgba(0, 0, 0, 0.0);
+    pointer-events: none;
+
+    transition: 0.3s;
+
+    z-index: 100;
+    transform: translateZ(110px);
+}
+
+:host.visible {
+    backdrop-filter: blur(5px);
+    pointer-events: all;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.menu {
+    position: relative;
+    background-color: black;
+    color: white;
+
+    border-radius: 20px;
+
+    min-width: 40%;
+    max-width: 80%;
+    max-height: calc(100vh - 100px);
+    overflow: hidden;
+
+    opacity: 0.0;
+    transform: scale(0.2);
+
+    transition: 0.3s;
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+:host.visible .menu {
+    opacity: 1.0;
+    transform: none;
+}
+
+.menu .bar {
+    height: 80px;
+
+    background: rgba(0, 0, 0, 0.5);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu button.close {
+    border: none;
+    background-color: #555;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+
+    position: absolute;
+    right: 20px;
+
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.menu button.close:hover {
+    background-color: #aaa;
+}
+
+.menu button.close svg line{
+    stroke: black;
+    stroke-width: 3px;
+    stroke-linecap: round;
+}
+
+.options {
+    overflow: auto;
+    padding: 0px 20px;
+    padding-bottom: 20px;
+}
+
+.options > * + *{
+    margin-top: 15px;
+}
+
+.options .horizontal{
+    display: flex;
+    flex-direction: row;
+}
+
+.options .horizontal.equal > *{
+    flex-grow: 1;
+}
+
+.options .horizontal > * + *{
+    margin-left: 15px;
+}
+
+.options .team {
+    flex-grow: 1;
+}
+
+/* Music & Sound */
+.music {
+    flex-grow: 1;
+}
+.sounds {
+    flex-grow: 1;
+}
+
+
+/* Functions */
+.functions {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin: -2.5px;
+}
+
+.functions > button {
+    margin: 2.5px;
+    /* width: calc(100% / 2 - 5px); */
+    height: 40px;
+}
+
+/* Shorctuts */
+.shortcuts{
+    display: grid;
+    grid-template: repeat(8, 1fr) / repeat(3, 1fr);
+    grid-auto-flow: column;
+    gap: 5px 40px;
+}

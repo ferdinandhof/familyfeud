@@ -1,0 +1,33 @@
+
+/* Start */
+.instructions {
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    text-transform: uppercase;
+
+    animation: rotate 3.0s ease-in-out infinite;
+}
+
+
+@keyframes rotate {
+    0% {
+        transform: scale(1.0) translate(0px, 0px);
+        text-shadow: 0px 0px rgba(0,0,0,0.5);
+    }
+
+    15% {
+        transform: scale(1.2) translate(0px, -5px);
+        text-shadow: 0px 3px rgba(0,0,0,0.5);
+    }
+
+    30% {
+        transform: scale(1.0) translate(0px, 0px);
+        text-shadow: 0px 0px rgba(0,0,0,0.5);
+    }
+
+    100% {
+        transform: scale(1.0) translate(0px, 0px);
+        text-shadow: 0px 0px rgba(0,0,0,0.5);
+    }
+}

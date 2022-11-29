@@ -1,0 +1,2664 @@
+{
+	"rounds": [
+		{
+			"name": "Name a House You Never Want to Be In",
+			"answers": [
+				{
+					"text": "Haunted House",
+					"amount": 27
+				},
+				{
+					"text": "Jail/Big House",
+					"amount": 11
+				},
+				{
+					"text": "Doghouse",
+					"amount": 8
+				},
+				{
+					"text": "Drug House",
+					"amount": 7
+				},
+				{
+					"text": "Small House",
+					"amount": 7
+				},
+				{
+					"text": "Glass House",
+					"amount": 6
+				},
+				{
+					"text": "Cat House",
+					"amount": 5
+				},
+				{
+					"text": "Outhouse",
+					"amount": 5
+				}
+			]
+		},
+		{
+			"name": "Name Something Associated with Vampires ",
+			"answers": [
+				{
+					"text": "Twilight",
+					"amount": 33
+				},
+				{
+					"text": "Blood/Bloodsucker",
+					"amount": 29
+				},
+				{
+					"text": "Garlic",
+					"amount": 9
+				},
+				{
+					"text": "Bat",
+					"amount": 7
+				},
+				{
+					"text": "Cape",
+					"amount": 7
+				},
+				{
+					"text": "Dracula",
+					"amount": 5
+				},
+				{
+					"text": "Fangs",
+					"amount": 4
+				},
+				{
+					"text": "Halloween",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name Something in a Bakery a Baker Might Call His Wife ",
+			"answers": [
+				{
+					"text": "Honey/Buns",
+					"amount": 32
+				},
+				{
+					"text": "His Oven",
+					"amount": 9
+				},
+				{
+					"text": "Sweet/Sweetie",
+					"amount": 9
+				},
+				{
+					"text": "Cupcake",
+					"amount": 8
+				},
+				{
+					"text": "Muffin",
+					"amount": 7
+				},
+				{
+					"text": "Sugar",
+					"amount": 5
+				},
+				{
+					"text": "Donut",
+					"amount": 5
+				},
+				{
+					"text": "Doughy",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name Something In A Person’s Closet That Only Comes Out On Special Occasions ",
+			"answers": [
+				{
+					"text": "Suit/Tux",
+					"amount": 35
+				},
+				{
+					"text": "Dress",
+					"amount": 26
+				},
+				{
+					"text": "Jewelry",
+					"amount": 10
+				},
+				{
+					"text": "Dress Shoes",
+					"amount": 6
+				},
+				{
+					"text": "Shotgun",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "If You Could Go to the Land of OZ, What Would You Ask the Wizard For? ",
+			"answers": [
+				{
+					"text": "Money",
+					"amount": 37
+				},
+				{
+					"text": "Health/A New Heart",
+					"amount": 17
+				},
+				{
+					"text": "A Brain",
+					"amount": 7
+				},
+				{
+					"text": "Hot Bod",
+					"amount": 5
+				},
+				{
+					"text": "Peace on Earth",
+					"amount": 4
+				},
+				{
+					"text": "Love",
+					"amount": 4
+				},
+				{
+					"text": "Happiness",
+					"amount": 4
+				},
+				{
+					"text": "Magic Power/To Fly",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name Something You Might See a Commercial For During a Baseball Game",
+			"answers": [
+				{
+					"text": "Car/Truck",
+					"amount": 28
+				},
+				{
+					"text": "Baseball Equipment/Jerseys",
+					"amount": 26
+				},
+				{
+					"text": "Baseball Games/Tickets",
+					"amount": 25
+				},
+				{
+					"text": "Restaurants",
+					"amount": 9
+				},
+				{
+					"text": "Medication",
+					"amount": 6
+				},
+				{
+					"text": "Beer",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Tell Me A Word That Rhymes with “Election” ",
+			"answers": [
+				{
+					"text": "Selection",
+					"amount": 32
+				},
+				{
+					"text": "Erection",
+					"amount": 23
+				},
+				{
+					"text": "Perfection",
+					"amount": 6
+				},
+				{
+					"text": "Detection",
+					"amount": 6
+				},
+				{
+					"text": "Protection",
+					"amount": 5
+				},
+				{
+					"text": "Rejection",
+					"amount": 4
+				},
+				{
+					"text": "Collection",
+					"amount": 4
+				},
+				{
+					"text": "Section",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "When You Enter a Bathroom, What Color Do You Really Hope NOT to See in the Toilet Bowl? ",
+			"answers": [
+				{
+					"text": "Brown",
+					"amount": 61
+				},
+				{
+					"text": "Yellow",
+					"amount": 11
+				},
+				{
+					"text": "Red",
+					"amount": 10
+				},
+				{
+					"text": "Green",
+					"amount": 10
+				},
+				{
+					"text": "Black",
+					"amount": 2
+				},
+				{
+					"text": "Pink",
+					"amount": 1
+				}
+			]
+		},
+		{
+			"name": "If Your Dog Ran Away, Name Something You'd Be Surprised He Took With Him",
+			"answers": [
+				{
+					"text": "The Cat",
+					"amount": 23
+				},
+				{
+					"text": "Leash/Collar",
+					"amount": 17
+				},
+				{
+					"text": "Food/Bowl",
+					"amount": 16
+				},
+				{
+					"text": "His Bone",
+					"amount": 9
+				},
+				{
+					"text": "Clothes/Shoe",
+					"amount": 6
+				},
+				{
+					"text": "Bed/Pillow",
+					"amount": 6
+				},
+				{
+					"text": "Favorite Toy",
+					"amount": 4
+				},
+				{
+					"text": "Wallet/Money",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "What’s Something You Keep in Your Car, Just in Case?",
+			"answers": [
+				{
+					"text": "Money/Coins",
+					"amount": 19
+				},
+				{
+					"text": "Food/Water",
+					"amount": 18
+				},
+				{
+					"text": "First Aid Kit",
+					"amount": 18
+				},
+				{
+					"text": "Spare Tire",
+					"amount": 15
+				},
+				{
+					"text": "Map",
+					"amount": 7
+				},
+				{
+					"text": "Jumper Cables",
+					"amount": 7
+				},
+				{
+					"text": "Spare Clothes/Shoes",
+					"amount": 5
+				},
+				{
+					"text": "Gas Can",
+					"amount": 2
+				},
+				{
+					"text": "Flare",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name An Occasion For Which You Might Wear Your Lucky Underwea",
+			"answers": [
+				{
+					"text": "Hot Date",
+					"amount": 30
+				},
+				{
+					"text": "Job Interview",
+					"amount": 16
+				},
+				{
+					"text": "Casino/Gambling",
+					"amount": 11
+				},
+				{
+					"text": "Sporting Event",
+					"amount": 9
+				},
+				{
+					"text": "Wedding/Night",
+					"amount": 7
+				},
+				{
+					"text": "Anniversary",
+					"amount": 5
+				},
+				{
+					"text": "Valentine’s Day",
+					"amount": 4
+				},
+				{
+					"text": "Exam/Finals",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name Something You Find in a Breakfast Buffet",
+			"answers": [
+				{
+					"text": "Eggs",
+					"amount": 25
+				},
+				{
+					"text": "Bacon",
+					"amount": 24
+				},
+				{
+					"text": "Sausage",
+					"amount": 19
+				},
+				{
+					"text": "Potatoes/Hash Browns",
+					"amount": 12
+				},
+				{
+					"text": "Juice",
+					"amount": 7
+				},
+				{
+					"text": "Coffee",
+					"amount": 6
+				},
+				{
+					"text": "Melon",
+					"amount": 2
+				},
+				{
+					"text": "Cereal",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "If There Was A Store That Only Sold Husbands, Most People Would Try to Buy One With What?",
+			"answers": [
+				{
+					"text": "Job",
+					"amount": 24
+				},
+				{
+					"text": "Personality/Humor",
+					"amount": 15
+				},
+				{
+					"text": "Warranty/Guarantee",
+					"amount": 14
+				},
+				{
+					"text": "Heart/Character",
+					"amount": 12
+				},
+				{
+					"text": "Bank Account",
+					"amount": 10
+				},
+				{
+					"text": "Bod/Butt",
+					"amount": 9
+				},
+				{
+					"text": "Head of Hair",
+					"amount": 3
+				},
+				{
+					"text": "Brain",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name a Professional Sport Where the Players Make a Lot of Mone",
+			"answers": [
+				{
+					"text": "Football",
+					"amount": 29
+				},
+				{
+					"text": "Baseball",
+					"amount": 27
+				},
+				{
+					"text": "Basketball",
+					"amount": 24
+				},
+				{
+					"text": "Soccer",
+					"amount": 7
+				},
+				{
+					"text": "Tennis",
+					"amount": 7
+				},
+				{
+					"text": "Darts",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something You’d Do if the Person Sitting Next to You on an Airplane Had B.O.",
+			"answers": [
+				{
+					"text": "Change Seats",
+					"amount": 39
+				},
+				{
+					"text": "Cover Nose/Mask",
+					"amount": 24
+				},
+				{
+					"text": "Turn Head",
+					"amount": 6
+				},
+				{
+					"text": "Endure/Enjoy It",
+					"amount": 6
+				},
+				{
+					"text": "Spray Perfume",
+					"amount": 6
+				},
+				{
+					"text": "You Reek, Yo!",
+					"amount": 3
+				},
+				{
+					"text": "Sleep",
+					"amount": 3
+				},
+				{
+					"text": "Hang In the Bathroom",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name Marvel's Avengers",
+			"answers": [
+				{
+					"text": "Captain America",
+					"amount": 22
+				},
+				{
+					"text": "Iron Man",
+					"amount": 22
+				},
+				{
+					"text": "Black Panther",
+					"amount": 20
+				},
+				{
+					"text": "The Hulk",
+					"amount": 15
+				},
+				{
+					"text": "Thor",
+					"amount": 15
+				},
+				{
+					"text": "Black Widow",
+					"amount": 9
+				},
+				{
+					"text": "Spiderman",
+					"amount": 3
+				},
+				{
+					"text": "Hawkeye",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "In Horror Movies, Name a Place Teenagers Go Where There’s Always a Killer On the Loose",
+			"answers": [
+				{
+					"text": "Cabin/Camp/Woods",
+					"amount": 49
+				},
+				{
+					"text": "Graveyard",
+					"amount": 12
+				},
+				{
+					"text": "Movie Theater/Drive-In",
+					"amount": 6
+				},
+				{
+					"text": "Basement/Cellar",
+					"amount": 6
+				},
+				{
+					"text": "Closet",
+					"amount": 5
+				},
+				{
+					"text": "Bathroom/Shower",
+					"amount": 4
+				},
+				{
+					"text": "Bedroom/Bed",
+					"amount": 4
+				},
+				{
+					"text": "A Party",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name a State That Has a Lot of Sports Teams",
+			"answers": [
+				{
+					"text": "New York",
+					"amount": 33
+				},
+				{
+					"text": "California",
+					"amount": 30
+				},
+				{
+					"text": "Florida",
+					"amount": 18
+				},
+				{
+					"text": "Texas",
+					"amount": 13
+				},
+				{
+					"text": "Pennsylvania",
+					"amount": 3
+				},
+				{
+					"text": "Illinois",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something Snowmen Might Have Nightmares About ",
+			"answers": [
+				{
+					"text": "Sun/Beach Weather",
+					"amount": 62
+				},
+				{
+					"text": "Fire/Flame Throwers",
+					"amount": 14
+				},
+				{
+					"text": "Blow Dryers",
+					"amount": 3
+				},
+				{
+					"text": "Rain",
+					"amount": 3
+				},
+				{
+					"text": "Snowplow/Shovel",
+					"amount": 3
+				},
+				{
+					"text": "Drought",
+					"amount": 2
+				},
+				{
+					"text": "Snowballs",
+					"amount": 2
+				},
+				{
+					"text": "Peeing Dogs/Pee",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name a Common Candy Bar Component ",
+			"answers": [
+				{
+					"text": "Chocolate",
+					"amount": 36
+				},
+				{
+					"text": "Peanuts",
+					"amount": 22
+				},
+				{
+					"text": "Caramel",
+					"amount": 15
+				},
+				{
+					"text": "Almonds",
+					"amount": 12
+				},
+				{
+					"text": "Nougat",
+					"amount": 10
+				},
+				{
+					"text": "Coconut",
+					"amount": 6
+				}
+			]
+		},
+		{
+			"name": "Name a Place Where if Her Husband Took Her There For Her Anniversary, a Wife Would Be Mad",
+			"answers": [
+				{
+					"text": "Tacky Restaurant",
+					"amount": 43
+				},
+				{
+					"text": "Strip Joint",
+					"amount": 19
+				},
+				{
+					"text": "Sporting Event",
+					"amount": 12
+				},
+				{
+					"text": "Bar/Club",
+					"amount": 6
+				},
+				{
+					"text": "Bowling Alley",
+					"amount": 4
+				},
+				{
+					"text": "His Parent's House",
+					"amount": 4
+				},
+				{
+					"text": "The Movies",
+					"amount": 2
+				},
+				{
+					"text": "Car Show",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name a Type of Insurance ",
+			"answers": [
+				{
+					"text": "Car",
+					"amount": 28
+				},
+				{
+					"text": "Health/Dental",
+					"amount": 22
+				},
+				{
+					"text": "Life",
+					"amount": 15
+				},
+				{
+					"text": "Home",
+					"amount": 10
+				},
+				{
+					"text": "Renter's",
+					"amount": 8
+				},
+				{
+					"text": "Flood",
+					"amount": 6
+				},
+				{
+					"text": "Travel",
+					"amount": 4
+				},
+				{
+					"text": "Blackjack",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something a Woman with a Crush on Santa Might Leave Out For Him Instead of Cookies ",
+			"answers": [
+				{
+					"text": "Candy/Better Food",
+					"amount": 23
+				},
+				{
+					"text": "Lingerie",
+					"amount": 14
+				},
+				{
+					"text": "Her Phone Number",
+					"amount": 13
+				},
+				{
+					"text": "Herself",
+					"amount": 12
+				},
+				{
+					"text": "Sexy Pictures",
+					"amount": 12
+				},
+				{
+					"text": "Booze",
+					"amount": 6
+				},
+				{
+					"text": "Mistletoe",
+					"amount": 6
+				},
+				{
+					"text": "Love Letter",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name Something You Would Buy After Getting Engaged ",
+			"answers": [
+				{
+					"text": "Dress",
+					"amount": 44
+				},
+				{
+					"text": "Ring",
+					"amount": 31
+				},
+				{
+					"text": "Champagne/Drinks",
+					"amount": 11
+				},
+				{
+					"text": "Dinner",
+					"amount": 6
+				}
+			]
+		},
+		{
+			"name": "Name Something That Might Be Full of Holes",
+			"answers": [
+				{
+					"text": "Swiss Cheese",
+					"amount": 40
+				},
+				{
+					"text": "Clothes/Socks",
+					"amount": 16
+				},
+				{
+					"text": "Alibi/Story",
+					"amount": 14
+				},
+				{
+					"text": "Net/Fishing Net",
+					"amount": 9
+				},
+				{
+					"text": "Colander/Strainer",
+					"amount": 8
+				},
+				{
+					"text": "Golf Course",
+					"amount": 2
+				},
+				{
+					"text": "Screen",
+					"amount": 2
+				},
+				{
+					"text": "Road/Street",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Other Than Letters, Name Something People Get in the Mail",
+			"answers": [
+				{
+					"text": "Junk Mail/Ads",
+					"amount": 24
+				},
+				{
+					"text": "Magazines",
+					"amount": 22
+				},
+				{
+					"text": "Bills",
+					"amount": 17
+				},
+				{
+					"text": "Packages",
+					"amount": 14
+				},
+				{
+					"text": "Postcards",
+					"amount": 5
+				},
+				{
+					"text": "Checks",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name Something a Naughty Kid Does to Santa",
+			"answers": [
+				{
+					"text": "Pulls His Beard",
+					"amount": 40
+				},
+				{
+					"text": "Hit/Kick/Bite",
+					"amount": 21
+				},
+				{
+					"text": "Go to the Bathroom on His Lap",
+					"amount": 10
+				},
+				{
+					"text": "No Cookies/Eats Them",
+					"amount": 9
+				},
+				{
+					"text": "Bad/Poison Milk",
+					"amount": 5
+				},
+				{
+					"text": "Cuss Out/Yells",
+					"amount": 4
+				},
+				{
+					"text": "Farts on Him",
+					"amount": 2
+				},
+				{
+					"text": "Stays Up/Spies",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name a Country With a Large Population ",
+			"answers": [
+				{
+					"text": "China",
+					"amount": 45
+				},
+				{
+					"text": "India",
+					"amount": 28
+				},
+				{
+					"text": "United States",
+					"amount": 20
+				},
+				{
+					"text": "Brazil",
+					"amount": 5
+				},
+				{
+					"text": "Mexico",
+					"amount": 2
+				},
+				{
+					"text": "Indonesia",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something a Squirrel Might Get in a Fight With if it Tried to Take His Nuts ",
+			"answers": [
+				{
+					"text": "Bird/Crow",
+					"amount": 30
+				},
+				{
+					"text": "Another Squirrel",
+					"amount": 23
+				},
+				{
+					"text": "Chipmunk",
+					"amount": 12
+				},
+				{
+					"text": "Cat",
+					"amount": 10
+				},
+				{
+					"text": "Raccoon",
+					"amount": 8
+				},
+				{
+					"text": "Dog",
+					"amount": 5
+				},
+				{
+					"text": "Rabbit",
+					"amount": 4
+				},
+				{
+					"text": "Human",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name a Type of Building Where It Always Seems to Be Cold ",
+			"answers": [
+				{
+					"text": "Doctor Office",
+					"amount": 44
+				},
+				{
+					"text": "Work",
+					"amount": 19
+				},
+				{
+					"text": "Classroom",
+					"amount": 14
+				},
+				{
+					"text": "DMV",
+					"amount": 4
+				},
+				{
+					"text": "Hotel Room",
+					"amount": 4
+				},
+				{
+					"text": "Igloo",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something People Do to Their Armpits",
+			"answers": [
+				{
+					"text": "Shave/Wax Them",
+					"amount": 63
+				},
+				{
+					"text": "Put Deodorant On Them",
+					"amount": 10
+				},
+				{
+					"text": "Make Noise/Fart",
+					"amount": 9
+				},
+				{
+					"text": "Scratch/Rub Them",
+					"amount": 6
+				},
+				{
+					"text": "Sniff Them",
+					"amount": 6
+				},
+				{
+					"text": "Wash Them",
+					"amount": 6
+				}
+			]
+		},
+		{
+			"name": "Name Something That Might Make You Suspect Your New House is Haunted",
+			"answers": [
+				{
+					"text": "Noises/Voices",
+					"amount": 50
+				},
+				{
+					"text": "Moving Objects",
+					"amount": 18
+				},
+				{
+					"text": "Flickering Lights",
+					"amount": 12
+				},
+				{
+					"text": "Doors Open/Close",
+					"amount": 7
+				},
+				{
+					"text": "Ghosts",
+					"amount": 6
+				},
+				{
+					"text": "Weird Odors",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something That Grows Faster Than You Want it To",
+			"answers": [
+				{
+					"text": "Hair/Unibrow",
+					"amount": 48
+				},
+				{
+					"text": "Lawn/Weeds",
+					"amount": 14
+				},
+				{
+					"text": "Kids/Babies",
+					"amount": 13
+				},
+				{
+					"text": "Belly/Weight",
+					"amount": 13
+				},
+				{
+					"text": "Nails",
+					"amount": 6
+				},
+				{
+					"text": "Debt/Expenses",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name Something That Might Be Brewing",
+			"answers": [
+				{
+					"text": "Coffee",
+					"amount": 37
+				},
+				{
+					"text": "Beer",
+					"amount": 28
+				},
+				{
+					"text": "Tea",
+					"amount": 17
+				},
+				{
+					"text": "Trouble",
+					"amount": 8
+				},
+				{
+					"text": "A Storm",
+					"amount": 5
+				},
+				{
+					"text": "A Plot",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name an Occupation That Begins With the Letter “J”",
+			"answers": [
+				{
+					"text": "Janitor",
+					"amount": 62
+				},
+				{
+					"text": "Judge/Justice",
+					"amount": 19
+				},
+				{
+					"text": "Jeweler",
+					"amount": 5
+				},
+				{
+					"text": "Jockey",
+					"amount": 4
+				},
+				{
+					"text": "Journalist",
+					"amount": 4
+				},
+				{
+					"text": "Juggler",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name Something You’ve Seen Your Neighbor Doing Outside While Wearing a Bathrobe",
+			"answers": [
+				{
+					"text": "Getting Newspaper",
+					"amount": 57
+				},
+				{
+					"text": "Watering Grass",
+					"amount": 17
+				},
+				{
+					"text": "Taking Out the Trash",
+					"amount": 16
+				},
+				{
+					"text": "Washing the Car",
+					"amount": 3
+				},
+				{
+					"text": "Kissing Spouse",
+					"amount": 2
+				},
+				{
+					"text": "Gardening",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something That Starts With the Word “Chow”",
+			"answers": [
+				{
+					"text": "Chow Mein",
+					"amount": 57
+				},
+				{
+					"text": "Chowder",
+					"amount": 12
+				},
+				{
+					"text": "Chowhound",
+					"amount": 8
+				},
+				{
+					"text": "Chow Chow",
+					"amount": 8
+				},
+				{
+					"text": "Chow Down",
+					"amount": 6
+				},
+				{
+					"text": "Chowtime",
+					"amount": 6
+				}
+			]
+		},
+		{
+			"name": "Name Something That Has to Be Licked ",
+			"answers": [
+				{
+					"text": "Lollipop",
+					"amount": 33
+				},
+				{
+					"text": "Ice Cream/Cone",
+					"amount": 32
+				},
+				{
+					"text": "Stamp",
+					"amount": 11
+				},
+				{
+					"text": "Popsicle",
+					"amount": 10
+				},
+				{
+					"text": "Envelope",
+					"amount": 9
+				},
+				{
+					"text": "Your Lips",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "When You Call in Sick to Work or School, Name Something You Do to Make it Believable",
+			"answers": [
+				{
+					"text": "Cough",
+					"amount": 68
+				},
+				{
+					"text": "Hoarse/Weak Voice",
+					"amount": 18
+				},
+				{
+					"text": "Fake Puke",
+					"amount": 3
+				},
+				{
+					"text": "Moan/Groan",
+					"amount": 3
+				},
+				{
+					"text": "Fake Doctor’s/Parent Note",
+					"amount": 2
+				},
+				{
+					"text": "Sneeze/Sniffle",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name an Activity That Requires Using Your Lips",
+			"answers": [
+				{
+					"text": "Kissing",
+					"amount": 56
+				},
+				{
+					"text": "Talking",
+					"amount": 23
+				},
+				{
+					"text": "Whistling",
+					"amount": 7
+				},
+				{
+					"text": "Singling",
+					"amount": 4
+				},
+				{
+					"text": "Playing Flute/Horn",
+					"amount": 4
+				},
+				{
+					"text": "Licking Your Lips",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name an Animal a Snake Can Swallow Whole",
+			"answers": [
+				{
+					"text": "Mouse/Rat",
+					"amount": 73
+				},
+				{
+					"text": "Alligator/Crocodile",
+					"amount": 9
+				},
+				{
+					"text": "Rabbit",
+					"amount": 5
+				},
+				{
+					"text": "Dog",
+					"amount": 3
+				},
+				{
+					"text": "Pig",
+					"amount": 3
+				},
+				{
+					"text": "Cat",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name a Word You Can Use Instead of “Woman”",
+			"answers": [
+				{
+					"text": "Lady",
+					"amount": 36
+				},
+				{
+					"text": "Girl",
+					"amount": 24
+				},
+				{
+					"text": "Female",
+					"amount": 17
+				},
+				{
+					"text": "Chick",
+					"amount": 7
+				},
+				{
+					"text": "Broad",
+					"amount": 6
+				},
+				{
+					"text": "Gal",
+					"amount": 5
+				}
+			]
+		},
+		{
+			"name": "Name Something You See Outside That Would Make You Want to Stay Inside",
+			"answers": [
+				{
+					"text": "Bad Weather/Tornado",
+					"amount": 71
+				},
+				{
+					"text": "Bear/Animal",
+					"amount": 13
+				},
+				{
+					"text": "Zombies",
+					"amount": 3
+				},
+				{
+					"text": "Apocalypse",
+					"amount": 2
+				},
+				{
+					"text": "Fire/Smoke",
+					"amount": 2
+				},
+				{
+					"text": "Bad Celebrities",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something Specific About Mickey Mouse That Other Mice Might Make Fun Of ",
+			"answers": [
+				{
+					"text": "Gigantic Ears",
+					"amount": 36
+				},
+				{
+					"text": "Clothes/Gloves",
+					"amount": 29
+				},
+				{
+					"text": "Voice/Laugh",
+					"amount": 19
+				},
+				{
+					"text": "His Huge Feet",
+					"amount": 3
+				},
+				{
+					"text": "BFFs With a Duck",
+					"amount": 3
+				},
+				{
+					"text": "Honker/Big Nose",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Fill In The Blank: “Raging ____”? ",
+			"answers": [
+				{
+					"text": "Bull",
+					"amount": 74
+				},
+				{
+					"text": "Waters",
+					"amount": 7
+				},
+				{
+					"text": "Fire",
+					"amount": 3
+				},
+				{
+					"text": "Hormones",
+					"amount": 3
+				},
+				{
+					"text": "River",
+					"amount": 3
+				},
+				{
+					"text": "Rapids",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name Something That Shakes, Rattles, and Rolls",
+			"answers": [
+				{
+					"text": "An Old Car",
+					"amount": 31
+				},
+				{
+					"text": "A Rattle/Toy",
+					"amount": 29
+				},
+				{
+					"text": "A Rattlesnake",
+					"amount": 15
+				},
+				{
+					"text": "Music/Singers",
+					"amount": 8
+				},
+				{
+					"text": "Dancing Bod/Booty",
+					"amount": 4
+				},
+				{
+					"text": "Dice",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name an Animal Starting With the Letter “C” That You’d NEVER Want to Eat",
+			"answers": [
+				{
+					"text": "Cat",
+					"amount": 64
+				},
+				{
+					"text": "Camel",
+					"amount": 8
+				},
+				{
+					"text": "Cougar",
+					"amount": 8
+				},
+				{
+					"text": "Cow",
+					"amount": 4
+				},
+				{
+					"text": "Cheetah",
+					"amount": 3
+				},
+				{
+					"text": "Coyote",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Other Than Feet, Name Something That Runs",
+			"answers": [
+				{
+					"text": "Water/Toilet",
+					"amount": 37
+				},
+				{
+					"text": "Engine/Car",
+					"amount": 24
+				},
+				{
+					"text": "Refrigerator",
+					"amount": 10
+				},
+				{
+					"text": "Nose",
+					"amount": 8
+				},
+				{
+					"text": "Pantyhose",
+					"amount": 8
+				},
+				{
+					"text": "Clock",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name Something a Person Might Keep in a Cellar",
+			"answers": [
+				{
+					"text": "Wine",
+					"amount": 54
+				},
+				{
+					"text": "Canned Goods/Food",
+					"amount": 23
+				},
+				{
+					"text": "Dead Bodies",
+					"amount": 4
+				},
+				{
+					"text": "Tools/Hooks",
+					"amount": 3
+				},
+				{
+					"text": "Furnace",
+					"amount": 2
+				},
+				{
+					"text": "Gun",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Give Me Another Word People Say For “Rear End”",
+			"answers": [
+				{
+					"text": "Butt/Buttocks",
+					"amount": 54
+				},
+				{
+					"text": "Arse",
+					"amount": 18
+				},
+				{
+					"text": "Backside",
+					"amount": 6
+				},
+				{
+					"text": "Derriere",
+					"amount": 4
+				},
+				{
+					"text": "Bottom",
+					"amount": 3
+				},
+				{
+					"text": "Heine",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Tell Me a Nickname Someone Gives Their Lover That Starts With the Word “Sugar”",
+			"answers": [
+				{
+					"text": "Sugar Pie",
+					"amount": 27
+				},
+				{
+					"text": "Sugar Bear",
+					"amount": 27
+				},
+				{
+					"text": "Sugar Baby/Babe",
+					"amount": 12
+				},
+				{
+					"text": "Sugar Daddy",
+					"amount": 8
+				},
+				{
+					"text": "Sugarplum",
+					"amount": 8
+				},
+				{
+					"text": "Sugar Lips",
+					"amount": 5
+				}
+			]
+		},
+		{
+			"name": "Name an Activity That’s Easier to Do When It’s Windy",
+			"answers": [
+				{
+					"text": "Fly a Kite",
+					"amount": 89
+				},
+				{
+					"text": "Sail",
+					"amount": 7
+				},
+				{
+					"text": "Surf",
+					"amount": 2
+				},
+				{
+					"text": "Air Dry Clothes",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something That Might Get Rained Out",
+			"answers": [
+				{
+					"text": "Sporting Event",
+					"amount": 84
+				},
+				{
+					"text": "Picnic/BBQ",
+					"amount": 8
+				},
+				{
+					"text": "Parade",
+					"amount": 5
+				},
+				{
+					"text": "Outdoor Concert",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something Kids Line Up For at School ",
+			"answers": [
+				{
+					"text": "Lunch/Snack",
+					"amount": 78
+				},
+				{
+					"text": "Recess",
+					"amount": 12
+				},
+				{
+					"text": "Fire Drill",
+					"amount": 5
+				},
+				{
+					"text": "School Bus",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name the Most Useful Body Part That Begins With the Letter “L”",
+			"answers": [
+				{
+					"text": "Legs",
+					"amount": 77
+				},
+				{
+					"text": "Lips",
+					"amount": 12
+				},
+				{
+					"text": "Lungs",
+					"amount": 6
+				},
+				{
+					"text": "Liver",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name a Term Used In a Game of Bowling ",
+			"answers": [
+				{
+					"text": "Strike",
+					"amount": 67
+				},
+				{
+					"text": "Spare",
+					"amount": 27
+				},
+				{
+					"text": "Pin",
+					"amount": 3
+				},
+				{
+					"text": "Turkey",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something You Did Every Day in Kindergarten That You Wish You Could Do Every Day Now ",
+			"answers": [
+				{
+					"text": "Nap",
+					"amount": 64
+				},
+				{
+					"text": "Play/Toys/Recess",
+					"amount": 19
+				},
+				{
+					"text": "Color/Paint",
+					"amount": 12
+				},
+				{
+					"text": "Get Free Snacks",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name Something a Hardcore Football Fan Wears to the Stadium on Game Day ",
+			"answers": [
+				{
+					"text": "Jersey/Team Color",
+					"amount": 63
+				},
+				{
+					"text": "Face/Body Paint",
+					"amount": 24
+				},
+				{
+					"text": "Hat/Cheesehead",
+					"amount": 10
+				},
+				{
+					"text": "Foam Hand/Finger",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name a Word That Rhymes With “Honey” ",
+			"answers": [
+				{
+					"text": "Money",
+					"amount": 62
+				},
+				{
+					"text": "Bunny",
+					"amount": 24
+				},
+				{
+					"text": "Funny",
+					"amount": 7
+				},
+				{
+					"text": "Sunny",
+					"amount": 6
+				}
+			]
+		},
+		{
+			"name": "Tell Me a Type of Hoop ",
+			"answers": [
+				{
+					"text": "Hula Hoop",
+					"amount": 60
+				},
+				{
+					"text": "Basketball Hoop",
+					"amount": 29
+				},
+				{
+					"text": "Hoop Earrings",
+					"amount": 5
+				},
+				{
+					"text": "Hoop Skirt",
+					"amount": 5
+				}
+			]
+		},
+		{
+			"name": "Name a Drink That’s Both Served Hot and Cold ",
+			"answers": [
+				{
+					"text": "Tea",
+					"amount": 59
+				},
+				{
+					"text": "Coffee",
+					"amount": 34
+				},
+				{
+					"text": "Milk",
+					"amount": 3
+				},
+				{
+					"text": "Cider",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name Something You Hang Up ",
+			"answers": [
+				{
+					"text": "The Phone",
+					"amount": 54
+				},
+				{
+					"text": "Clothes/Coat/Hat",
+					"amount": 38
+				},
+				{
+					"text": "A Towel",
+					"amount": 4
+				},
+				{
+					"text": "A Picture/Frame",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name Something You Hate to See On the Bottom of Your Shoe",
+			"answers": [
+				{
+					"text": "Gum",
+					"amount": 49
+				},
+				{
+					"text": "Poop/Dog Doo",
+					"amount": 43
+				},
+				{
+					"text": "Mud/Dirt",
+					"amount": 4
+				},
+				{
+					"text": "TP/Tissue",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "We Asked 100 Men...Name Something You Do With Your Meat Before You Put it On the Grill",
+			"answers": [
+				{
+					"text": "Season It",
+					"amount": 48
+				},
+				{
+					"text": "Marinate It",
+					"amount": 33
+				},
+				{
+					"text": "Cut It/Trim It",
+					"amount": 11
+				},
+				{
+					"text": "Defrost It",
+					"amount": 7
+				}
+			]
+		},
+		{
+			"name": "Name Something People Decorate",
+			"answers": [
+				{
+					"text": "Christmas Tree",
+					"amount": 46
+				},
+				{
+					"text": "House/Rooms",
+					"amount": 27
+				},
+				{
+					"text": "A Cake",
+					"amount": 19
+				},
+				{
+					"text": "Easter Eggs",
+					"amount": 7
+				}
+			]
+		},
+		{
+			"name": "Name Something a Baby Might Do When You Kiss its Tummy",
+			"answers": [
+				{
+					"text": "Laugh/Smile",
+					"amount": 91
+				},
+				{
+					"text": "Squeal/Shriek",
+					"amount": 3
+				},
+				{
+					"text": "Fart",
+					"amount": 2
+				},
+				{
+					"text": "Kick",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "When You Were a Kid, Name Someone Who Could See Right Through Your Lies",
+			"answers": [
+				{
+					"text": "Mom/Dad",
+					"amount": 85
+				},
+				{
+					"text": "Grandma/Grandpa",
+					"amount": 9
+				},
+				{
+					"text": "Teacher",
+					"amount": 2
+				},
+				{
+					"text": "Friend",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name a Kind of Chip ",
+			"answers": [
+				{
+					"text": "Potato/Corn",
+					"amount": 74
+				},
+				{
+					"text": "Chocolate",
+					"amount": 14
+				},
+				{
+					"text": "Poker",
+					"amount": 7
+				},
+				{
+					"text": "Micro/Computer",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name the Most Popular Ride at a Carnival",
+			"answers": [
+				{
+					"text": "Ferris Wheel",
+					"amount": 66
+				},
+				{
+					"text": "Carousel",
+					"amount": 18
+				},
+				{
+					"text": "Roller Coaster",
+					"amount": 12
+				},
+				{
+					"text": "Tilt-A-Whirl",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something People Take Out",
+			"answers": [
+				{
+					"text": "Food/Chinese",
+					"amount": 61
+				},
+				{
+					"text": "The Trash",
+					"amount": 31
+				},
+				{
+					"text": "Money/Loan",
+					"amount": 4
+				},
+				{
+					"text": "The Dog/Pet",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Besides a Person, Name Something People Hug",
+			"answers": [
+				{
+					"text": "Pets",
+					"amount": 53
+				},
+				{
+					"text": "Pillow",
+					"amount": 25
+				},
+				{
+					"text": "Teddy Bear",
+					"amount": 13
+				},
+				{
+					"text": "Trees",
+					"amount": 7
+				}
+			]
+		},
+		{
+			"name": "Name a Word That Rhymes With the Word “Shower” ",
+			"answers": [
+				{
+					"text": "Power",
+					"amount": 52
+				},
+				{
+					"text": "Flower/Flour",
+					"amount": 26
+				},
+				{
+					"text": "Tower",
+					"amount": 13
+				},
+				{
+					"text": "Hour/Our",
+					"amount": 7
+				}
+			]
+		},
+		{
+			"name": "Name an Excuse a Friend Gives For Not Helping You Move ",
+			"answers": [
+				{
+					"text": "Work/Too Busy",
+					"amount": 51
+				},
+				{
+					"text": "Bad Back",
+					"amount": 30
+				},
+				{
+					"text": "Sick/Tired",
+					"amount": 10
+				},
+				{
+					"text": "Going Out of Town",
+					"amount": 7
+				}
+			]
+		},
+		{
+			"name": "Give Me a Word That Rhymes With “Buckle”",
+			"answers": [
+				{
+					"text": "Knuckle",
+					"amount": 43
+				},
+				{
+					"text": "Suckle",
+					"amount": 28
+				},
+				{
+					"text": "Chuckle",
+					"amount": 22
+				},
+				{
+					"text": "Huckle",
+					"amount": 5
+				}
+			]
+		},
+		{
+			"name": "When You Hear a Noise Coming From Your Basement, What Do You Pray That it ISN’T?",
+			"answers": [
+				{
+					"text": "Another Person",
+					"amount": 42
+				},
+				{
+					"text": "Ghost/Monster",
+					"amount": 25
+				},
+				{
+					"text": "Animals/Rats",
+					"amount": 21
+				},
+				{
+					"text": "Flood/Water Heater",
+					"amount": 10
+				}
+			]
+		},
+		{
+			"name": "Tell Me a Person’s First Name That Rhymes With “Fannie”",
+			"answers": [
+				{
+					"text": "Danny",
+					"amount": 40
+				},
+				{
+					"text": "Manny",
+					"amount": 38
+				},
+				{
+					"text": "Annie",
+					"amount": 17
+				},
+				{
+					"text": "Frannie",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name a Place Where You’re Supposed to Be Very Quiet",
+			"answers": [
+				{
+					"text": "Library",
+					"amount": 82
+				},
+				{
+					"text": "Church",
+					"amount": 10
+				},
+				{
+					"text": "Theater/Movies",
+					"amount": 3
+				},
+				{
+					"text": "Bedroom",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "If Men Had a Tail Like Dogs Do, What Might They See That Would Cause it to Start Wagging?",
+			"answers": [
+				{
+					"text": "Babes",
+					"amount": 76
+				},
+				{
+					"text": "Food",
+					"amount": 15
+				},
+				{
+					"text": "Beer",
+					"amount": 4
+				},
+				{
+					"text": "Sports/ESPN",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something That’s Hard To Do With Your Eyes Open ",
+			"answers": [
+				{
+					"text": "Sleep/Dream",
+					"amount": 75
+				},
+				{
+					"text": "Sneeze",
+					"amount": 16
+				},
+				{
+					"text": "Kiss",
+					"amount": 3
+				},
+				{
+					"text": "Swim/Dive",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name Something You’d Hate to See an “Out of Order” Sign On",
+			"answers": [
+				{
+					"text": "Bathroom/Toilet",
+					"amount": 74
+				},
+				{
+					"text": "ATM",
+					"amount": 13
+				},
+				{
+					"text": "Elevator",
+					"amount": 5
+				},
+				{
+					"text": "Vending Machine",
+					"amount": 5
+				}
+			]
+		},
+		{
+			"name": "Name Something You’d Find on Top of a Poker Table ",
+			"answers": [
+				{
+					"text": "Poker Chips",
+					"amount": 62
+				},
+				{
+					"text": "Cards",
+					"amount": 22
+				},
+				{
+					"text": "Money",
+					"amount": 7
+				},
+				{
+					"text": "Green Felt",
+					"amount": 6
+				}
+			]
+		},
+		{
+			"name": "Name Something That Gets Shredded ",
+			"answers": [
+				{
+					"text": "Documents/Paper",
+					"amount": 57
+				},
+				{
+					"text": "Cheese",
+					"amount": 19
+				},
+				{
+					"text": "Lettuce",
+					"amount": 18
+				},
+				{
+					"text": "Wheat",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name Something You’d Put in Your Backyard if You Wanted it to Look Like a Desert ",
+			"answers": [
+				{
+					"text": "Sand",
+					"amount": 50
+				},
+				{
+					"text": "Cactus",
+					"amount": 39
+				},
+				{
+					"text": "Camel",
+					"amount": 4
+				},
+				{
+					"text": "Palm Tree",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name Something You Might Be Glad Only Comes Once a Year",
+			"answers": [
+				{
+					"text": "Christmas",
+					"amount": 47
+				},
+				{
+					"text": "Birthdays",
+					"amount": 37
+				},
+				{
+					"text": "Tax Season",
+					"amount": 9
+				},
+				{
+					"text": "Anniversary",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name an Asian Country Known For its Cuisine ",
+			"answers": [
+				{
+					"text": "China",
+					"amount": 43
+				},
+				{
+					"text": "Japan",
+					"amount": 24
+				},
+				{
+					"text": "Thailand",
+					"amount": 23
+				},
+				{
+					"text": "India",
+					"amount": 7
+				}
+			]
+		},
+		{
+			"name": "Name Something That Might Be Spoiled ",
+			"answers": [
+				{
+					"text": "Milk/Food",
+					"amount": 78
+				},
+				{
+					"text": "Child/Person",
+					"amount": 14
+				},
+				{
+					"text": "Pet",
+					"amount": 2
+				},
+				{
+					"text": "Party/Surprise",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something You’d Need if You Wanted to Dress Up Like Dorothy From “The Wizard of Oz”",
+			"answers": [
+				{
+					"text": "Ruby Slippers",
+					"amount": 72
+				},
+				{
+					"text": "Checkered Dress",
+					"amount": 13
+				},
+				{
+					"text": "Pigtails/Braids",
+					"amount": 8
+				},
+				{
+					"text": "Picnic Basket",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name Something Ducks Do ",
+			"answers": [
+				{
+					"text": "Quack",
+					"amount": 65
+				},
+				{
+					"text": "Swim/Paddle",
+					"amount": 20
+				},
+				{
+					"text": "Waddle",
+					"amount": 7
+				},
+				{
+					"text": "Fly",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Besides Chicken, Name a Bird People Eat ",
+			"answers": [
+				{
+					"text": "Turkey",
+					"amount": 64
+				},
+				{
+					"text": "Duck",
+					"amount": 13
+				},
+				{
+					"text": "Pheasant",
+					"amount": 12
+				},
+				{
+					"text": "Quail",
+					"amount": 7
+				}
+			]
+		},
+		{
+			"name": "Name Something People Win on Game Shows",
+			"answers": [
+				{
+					"text": "Money",
+					"amount": 61
+				},
+				{
+					"text": "A New Car",
+					"amount": 24
+				},
+				{
+					"text": "Trips/Vacations",
+					"amount": 9
+				},
+				{
+					"text": "Refrigerators",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something Mrs.Claus Might Leave the North Pole to Get Away From",
+			"answers": [
+				{
+					"text": "Snow/The Cold",
+					"amount": 33
+				},
+				{
+					"text": "Santa",
+					"amount": 31
+				},
+				{
+					"text": "Annoying Elves",
+					"amount": 29
+				},
+				{
+					"text": "Reindeer",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name a Reason a Person’s Face May Turn Red ",
+			"answers": [
+				{
+					"text": "Embarrassed",
+					"amount": 75
+				},
+				{
+					"text": "Angry",
+					"amount": 12
+				},
+				{
+					"text": "Sunburned",
+					"amount": 6
+				},
+				{
+					"text": "Bug Bites/Sting",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Tell Me a Ball That’s Smaller Than a Baseball ",
+			"answers": [
+				{
+					"text": "Golf Ball",
+					"amount": 70
+				},
+				{
+					"text": "Ping-Pong Ball",
+					"amount": 16
+				},
+				{
+					"text": "Tennis Ball",
+					"amount": 17
+				},
+				{
+					"text": "Gumball",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name One Thing People Do to Imitate a Dog ",
+			"answers": [
+				{
+					"text": "Bark",
+					"amount": 67
+				},
+				{
+					"text": "Pant/Tongue Out",
+					"amount": 14
+				},
+				{
+					"text": "Down On All Fours",
+					"amount": 11
+				},
+				{
+					"text": "Hands Up/Beg",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name a Reason People Might Change Their Name ",
+			"answers": [
+				{
+					"text": "Got Married",
+					"amount": 60
+				},
+				{
+					"text": "Their Name is Lame",
+					"amount": 16
+				},
+				{
+					"text": "Witness Protection",
+					"amount": 13
+				},
+				{
+					"text": "Divorce",
+					"amount": 6
+				}
+			]
+		},
+		{
+			"name": "Name an Activity Where a Person Might Come Up For Air",
+			"answers": [
+				{
+					"text": "Swimming",
+					"amount": 59
+				},
+				{
+					"text": "Scuba/Snorkeling",
+					"amount": 28
+				},
+				{
+					"text": "Kissing",
+					"amount": 6
+				},
+				{
+					"text": "Bobbing For Apples",
+					"amount": 2
+				}
+			]
+		},
+		{
+			"name": "Name Something Everyone Knows About Dragons",
+			"answers": [
+				{
+					"text": "They Breathe Fire",
+					"amount": 76
+				},
+				{
+					"text": "Fly/Have Wings",
+					"amount": 8
+				},
+				{
+					"text": "They Don’t Exist",
+					"amount": 5
+				},
+				{
+					"text": "They’re Big/Tall",
+					"amount": 5
+				}
+			]
+		},
+		{
+			"name": "Name Something You Love to Smell in the Morning",
+			"answers": [
+				{
+					"text": "Coffee/Breakfast",
+					"amount": 75
+				},
+				{
+					"text": "Fresh Air/Dew",
+					"amount": 11
+				},
+				{
+					"text": "Flowers",
+					"amount": 4
+				},
+				{
+					"text": "Bae's Cologne",
+					"amount": 4
+				}
+			]
+		},
+		{
+			"name": "Name a Creature People are Petrified of That Starts With an “S” ",
+			"answers": [
+				{
+					"text": "Snake",
+					"amount": 72
+				},
+				{
+					"text": "Spider",
+					"amount": 12
+				},
+				{
+					"text": "Shark",
+					"amount": 7
+				},
+				{
+					"text": "Scorpion",
+					"amount": 3
+				}
+			]
+		},
+		{
+			"name": "Name a Specific Place Where You’d See Bunk Beds",
+			"answers": [
+				{
+					"text": "Kid’s Bedroom",
+					"amount": 70
+				},
+				{
+					"text": "Summer Camp",
+					"amount": 11
+				},
+				{
+					"text": "Military Barracks",
+					"amount": 7
+				},
+				{
+					"text": "Furniture Store",
+					"amount": 6
+				}
+			]
+		}
+	]
+}

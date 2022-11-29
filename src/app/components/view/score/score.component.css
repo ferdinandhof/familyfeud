@@ -1,0 +1,27 @@
+:host{
+    background: linear-gradient(var(--bgGradiendtColor2), var(--bgGradiendtColor1));
+
+    border-top-left-radius: calc(var(--cardBorderRadius) / 2);
+    border-top-right-radius: calc(var(--cardBorderRadius) / 2);
+
+    height: 80px;
+    width: 30%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: white;
+
+    outline: solid 5px var(--cardBGColor);
+
+    box-shadow: 0px -20px 100px 20px #b7eeff;
+}
+
+h1 {
+    padding: 0px;
+    margin: 0px;
+    font-size: 38pt;
+
+    text-shadow: 3px 3px 20px #7ce1ff;
+}

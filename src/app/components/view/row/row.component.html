@@ -1,0 +1,12 @@
+<div>
+    <div class="badge" *ngIf="answer?.isHidden == false && answer?.isRevealed == false">
+        <svg viewBox="0 0 10 10">
+            <circle id="Oval" fill="#D8D8D8" cx="5" cy="5" r="4"></circle>
+            <text text-anchor="middle" dominant-baseline="middle">
+                <tspan x="5px" y ="5.5px">{{index+1}}</tspan>
+            </text>
+        </svg>
+    </div>
+    <span class="title" *ngIf="answer?.isRevealed">{{answer?.text}}</span>
+    <span class="number" *ngIf="answer?.isRevealed">{{answer?.amount}}</span>
+</div>

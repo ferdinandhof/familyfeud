@@ -1,0 +1,60 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1.bold {
+    margin-bottom: 80px;
+}
+
+.teams {
+    display: flex;
+    align-items: center;
+}
+
+.teams span{
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 34pt;
+    margin: 0px 20px;
+}
+
+p{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.3);
+    font-weight: bold;
+    font-size: 24pt;
+    margin: 20px
+}
+
+h1.team {
+    margin: 0px;
+    padding: 20px 30px;
+    border-radius: var(--teamBorderRadius);
+
+    text-align: center;
+    color: white;
+    text-shadow: 1px 2px 3px black;
+    font-size: 34pt;
+
+    border: solid 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+h1.score {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0px;
+    padding: 50px 100px;
+    border-radius: var(--teamBorderRadius);
+    background: var(--cardBGColor);
+
+    text-align: center;
+    color: white;
+    text-shadow: 1px 2px 3px black;
+    font-size: 64pt;
+
+    border: solid 4px rgba(0, 0, 0, 0.1);
+}

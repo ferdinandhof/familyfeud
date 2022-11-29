@@ -1,0 +1,14 @@
+<app-section class="team" [title]="title">
+    <div class="row">
+        <input type="color" [(ngModel)]="team.color"/>
+        <input class="text" type="text" [(ngModel)]="team.name"/>
+    </div>
+    <div class="row">
+        <div class="input">
+            <span class="title">Score</span><input type="number" [(ngModel)]="team.score"/>
+        </div>
+        <div class="input">
+            <span class="title">Strikes</span><input type="number" [(ngModel)]="team.strikes"/>
+        </div>
+    </div>
+</app-section>

@@ -1,0 +1,33 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    line-height: 100%;
+}
+
+h3 {
+    font-family: "Arvo", "Arial Black";
+    font-size: 24pt;
+    color: rgba(0, 0, 0, 0.4);
+
+    text-transform: uppercase;
+    letter-spacing: 4pt;
+}
+
+:host.light h3{
+    color: #F8EB3Aaa;
+}
+
+h2 {
+    font-family: "Phosphate", "Arial Black";
+    font-weight:normal;
+    font-size: 82pt;
+    color: #F8EB3A;
+
+    text-shadow: 1px 3px 10px rgba(0, 0, 0, 0.4);
+}

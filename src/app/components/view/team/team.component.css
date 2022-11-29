@@ -1,0 +1,91 @@
+:host {
+    transition: transform 0.2s, box-shadow 0.6s;
+}
+
+:host.active {
+    transform: scale(1.5);    
+}
+
+.outer {
+    height: calc(100% - 10px);
+    padding: 5px;
+    background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%);
+
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.inner {
+    height: 100%;
+    overflow: hidden;
+}
+
+.content {
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+
+    padding: 0px 40px;
+    display: flex;
+    align-items: center;
+}
+
+/* Alignment */
+:host.leftAligned{
+    border-top-right-radius: var(--teamBorderRadius);
+    transform-origin: 0% 100%;
+}
+
+:host.leftAligned .outer{
+    border-top-right-radius: var(--teamBorderRadius);
+}
+
+:host.leftAligned .inner{
+    border-top-right-radius: calc(var(--teamBorderRadius) - 3px);
+}
+
+
+:host.rightAligned{
+    border-top-left-radius: var(--teamBorderRadius);
+    transform-origin: 100% 100%;
+}
+
+:host.rightAligned .outer{
+    border-top-left-radius: var(--teamBorderRadius);
+}
+
+:host.rightAligned .inner{
+    border-top-left-radius: calc(var(--teamBorderRadius) - 3px);
+}
+
+/* Buzzed */
+:host:not(.active.buzzed) {
+    box-shadow: none !important;
+}
+
+/* Team Content */
+:host span {
+    color: white;
+    font-weight: bold;
+}
+
+:host span.name{
+    font-size: 15pt;
+}
+
+:host span.score{
+    font-size: 24pt;
+}
+
+:host span + span {
+    margin-left: 40px;
+}
+
+/*  Team Strikes */
+:host .strikes {
+    font-size: 42px;
+    text-shadow: 0px 2px rgba(0, 0, 0, 0.8);
+}
+
+:host .strikes > * + *{
+    margin-left: 2px;
+}

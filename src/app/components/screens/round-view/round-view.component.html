@@ -1,0 +1,12 @@
+<div class="round">
+    <app-title></app-title>
+    <app-score [score]="score"></app-score>
+
+    <div class="card">
+        <h3>Round {{roundIndex + 1}}</h3>
+        <h1 [ngClass]="{'hidden': !round.isQuestionRevealed}">{{round.question}}</h1>
+        <div class="answers">
+            <app-row *ngFor="let number of numbers; let i = index" [answer]="round.answers[i]" [index]="i"></app-row>
+        </div>
+    </div>
+</div>

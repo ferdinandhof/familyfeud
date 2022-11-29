@@ -1,0 +1,43 @@
+<div class="menu">
+    <div class="bar">
+        <h1>Menu</h1>
+        <button class="close" (click)="closeButtonTapped()">
+            <svg width="18px" height="18px" viewBox="0 0 18 18">
+                <line x1="2.35" y1="2.35" x2="15.65" y2="15.65"></line>
+                <line x1="15.65" y1="2.35" x2="2.35" y2="15.65"></line>
+            </svg>
+        </button>
+    </div>
+    <div class="options">
+        <div class="horizontal equal">
+            <app-input-team [title]="'Team 1'" [team]="state.team1"></app-input-team>
+            <app-input-team [title]="'Team 2'" [team]="state.team2"></app-input-team>
+        </div>
+
+        
+        <div class="horizontal equal">
+            <app-section [title]="'Music'">
+                <app-input-enum [options]="musics" [selectedType]="mediaState.currentMusic" (selectedTypeChange)="selectMusic($event)"></app-input-enum>
+                <app-input-playback [mediaState]="mediaState" [ngClass]="{'disabled': mediaState.currentMusic == null}"></app-input-playback>
+            </app-section>
+
+            <app-section [title]="'Actions'">
+                <div class="functions">
+                    <button (click)="perform('reset')">Reset</button>
+                    <button (click)="perform('resetAll')">Reset All</button>
+                </div>
+            </app-section>
+        </div>
+
+        <app-section [title]="'Screen & Rounds'">
+            <app-input-enum [options]="screens" [selectedType]="state.screen" (selectedTypeChange)="selectScreen($event)"></app-input-enum>
+            <app-input-round [rounds]="state.rounds" [selectedRound]="state.currentRound" (selectedRoundChange)="selectRound($event)"></app-input-round>
+        </app-section>
+
+        <app-section [title]="'Shortcuts'">
+            <div class="shortcuts">
+                <app-shorcut *ngFor="let shortcut of shorcuts" [shortcut]="shortcut"></app-shorcut>
+            </div>
+        </app-section>
+    </div>
+</div>

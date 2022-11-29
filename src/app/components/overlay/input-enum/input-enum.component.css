@@ -1,0 +1,32 @@
+:host {
+    --buttonSpacing: 5px;
+
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    margin: calc(-0.5 * var(--buttonSpacing));
+}
+
+button {
+    margin: calc(-0.5 * var(--buttonSpacing));
+    margin: 2px;
+    flex-grow: 1;
+    background: none;
+}
+
+button:hover {
+    background: rgb(56, 56, 56);
+}
+
+button.active {
+    background: white !important;
+    color: black !important;
+}

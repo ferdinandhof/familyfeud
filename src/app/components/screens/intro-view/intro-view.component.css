@@ -1,0 +1,72 @@
+:host {
+    margin-left: -20%;
+    display: block;
+}
+
+/* Intro */
+.card.title {
+    padding: 50px 80px;
+
+    opacity: 0.0;
+    transform: scale(2.0);
+    transition: 1.0s;
+}
+
+.card.title.visible {
+    opacity: 1.0;
+    transform: scale(1.0);
+}
+
+.card.title img {
+    width: 50vw;
+}
+
+.hosted {
+    display: block;
+    position: absolute;
+    /* height: 10%; */
+    top: 20%;
+    right: 6%;
+
+    opacity: 0.0;
+    transition: 0.5s;
+
+    text-align: center;
+}
+
+.hosted p {
+    font-family: "Arial";
+    margin: 0px;
+    font-weight: bold;
+    font-size: 18pt;
+    letter-spacing: -2px;
+}
+
+.hosted h1 {
+    font-family: "Arial Black";
+    margin: 0px;
+    font-size: 36pt;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    transform: scaleX(0.9);
+}
+
+.hosted.visible {
+    opacity: 1.0;
+}
+
+
+img.figure {
+    position: absolute;
+    height: 90%;
+    bottom: 0px;
+    right: 5%;
+
+    transform: translateX(100vw);
+    transition: 3.0s;
+}
+
+img.figure.visible {
+    transform: translateX(0px);
+}
+

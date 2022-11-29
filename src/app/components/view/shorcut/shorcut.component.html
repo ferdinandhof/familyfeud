@@ -1,0 +1,7 @@
+<span>{{shortcut.title}}</span>
+<div class="keys">
+    <ng-template ngFor let-key let-i="index" [ngForOf]="shortcut.keys">
+        <span class="plus" *ngIf="i != 0">+</span>
+        <span>{{key}}</span>
+    </ng-template>
+</div>
