@@ -3,7 +3,9 @@ This is a angular app to play family feud with all your friends.
 It contains a catalog of 100 questions which is easily expandable.
 
 ## Run the app
-Run `ng serve` for a dev server.
+1. First you need to install node.js and then angular.cli
+2. Then install all dependencies `npm i`.
+3. Run `ng serve` for a dev server.
 For best results open the app in Chrome.
 
 ### Start in Chrome Kiosk
