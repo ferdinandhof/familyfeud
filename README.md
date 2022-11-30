@@ -16,34 +16,35 @@ Run `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --kiosk --ap
 ### Menu
 Use `ESC` to open the in app menu which will let you control the app while using.
 
-| Shortcut                  | Keys            | Comments                                                                |
-| ------------------------- | --------------- | ----------------------------------------------------------------------- |
-| Menu                      | `ESC`           |                                                                         |
-| Advance                   | `Space`         | Advances to next screen (start, intro, instructions, round)             |
-| Select Team 1             | `←`             | Select Team 1 and makes it eligible for any actions                     |
-| Select Team 2             | `→`             | Select Team 2 and makes it eligible for any actions                     |
-| Increase Score            | `↑`             | Needs a team selected                                                   |
-| Decrease Score            | `↓`             | Needs a team selected                                                   |
-| Buzzer 1                  | `Numpad 1`      | Selects and buzzes for team 1, the key for this can be configured       |
-| Buzzer 2                  | `Numpad 2`      | Selects and buzzes for team 1, the key for this can be configured       |
-|                           |                 |                                                                         |
-| Reveal Answer #           | `1-8`           | Reveals an answer on the board                                          |
-| Reveal Answer #           | `Shift`, `1-8`  | Closes an answer on the board again                                     |
-| Toggle Reveal All Answers | `Shift`, `A`    | Reveals all answer with an animation                                    |
-| Strike                    | `X`             | Needs a team selected                                                   |
-| Unstrike                  | `Shift`, `X`    | Needs a team selected                                                   |
-| Credit Score              | `S`             | Gives the currently displayed score to a team. Needs a team selected    |
-| Uncredit Score            | `Shift`, `S`    | Needs a team selected                                                   |
-| Reset                     | `R`             | Resets to no team selected and buzzered                                 |
-| Reset All                 | `Shift`, `R`    | Resets both teams' scores and rounds played                             |
-|                           |                 |                                                                         |
-| Music "Game"              | `⌥`, `1`        |                                                                         |
-| Music "Millionaire"       | `⌥`, `2`        |                                                                         |
-| Music "Jazz"              | `⌥`, `3`        |                                                                         |
-| Playe/Pause Music         | `⌥`, `P`        |                                                                         |
-| Duck Music                | `⌥`, `O`        | lowers the volume until unducked again                                  |
-| Volume Up                 | `⌥`, `↑`        |                                                                         |
-| Volume Down               | `⌥`, `↓`        |                                                                         |
+| Shortcut                  | Keys            | Comments                                                       |
+| ------------------------- | --------------- | -------------------------------------------------------------- |
+| Menu                      | `ESC`           |                                                                |
+| Advance                   | `Space`         | Advances to next screen (start, intro, instructions, round)    |
+| Select Team 1             | `←`             | Select Team 1 and makes it eligible for any actions            |
+| Select Team 2             | `→`             | Select Team 2 and makes it eligible for any actions            |
+| Increase Score            | `↑`             | Needs a team selected                                          |
+| Decrease Score            | `↓`             | Needs a team selected                                          |
+| Buzzer 1                  | `Numpad 1`      | Selects and buzzes for team 1, the key can be configured       |
+| Buzzer 2                  | `Numpad 2`      | Selects and buzzes for team 1, the key can be configured       |
+|                           |                 |                                                                |
+| Reveal Answer #           | `1-8`           | Reveals an answer on the board                                 |
+| Reveal Answer #           | `Shift`, `1-8`  | Closes an answer on the board again                            |
+| Toggle Reveal All Answers | `Shift`, `A`    | Reveals all answer with an animation                           |
+| Strike                    | `X`             | Needs a team selected                                          |
+| Unstrike                  | `Shift`, `X`    | Needs a team selected                                          |
+| Credit Score              | `S`             | Gives the current score to selected team.                      |
+| Uncredit Score            | `Shift`, `S`    | Needs a team selected                                          |
+| Reset                     | `R`             | Resets to no team selected and buzzered                        |
+| Reset All                 | `Shift`, `R`    | Resets both teams' scores and rounds played                    |
+|                           |                 |                                                                |
+| Music "Game"              | `⌥`, `1`        |                                                                |
+| Music "Millionaire"       | `⌥`, `2`        |                                                                |
+| Music "Jazz"              | `⌥`, `3`        |                                                                |
+| Playe/Pause Music         | `⌥`, `P`        |                                                                |
+| Duck Music                | `⌥`, `O`        | lowers the volume until unducked again                         |
+| Volume Up                 | `⌥`, `↑`        |                                                                |
+| Volume Down               | `⌥`, `↓`        |                                                                |
+
 
 ## Configuration
 Use the `src/environments/environment.ts` file to adjust the following settings:
