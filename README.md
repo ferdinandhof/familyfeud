@@ -17,7 +17,7 @@ Run `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --kiosk --ap
 Use `ESC` to open the in app menu which will let you control the app while using.
 
 | Shortcut                  | Keys            | Comments                                                                |
-| ------------------------- |:---------------:|:-----------------------------------------------------------------------:|
+| ------------------------- | --------------- | ----------------------------------------------------------------------- |
 | Menu                      | `ESC`           |                                                                         |
 | Advance                   | `Space`         | Advances to next screen (start, intro, instructions, round)             |
 | Select Team 1             | `←`             | Select Team 1 and makes it eligible for any actions                     |
@@ -44,7 +44,6 @@ Use `ESC` to open the in app menu which will let you control the app while using
 | Duck Music                | `⌥`, `O`        | lowers the volume until unducked again                                  |
 | Volume Up                 | `⌥`, `↑`        |                                                                         |
 | Volume Down               | `⌥`, `↓`        |                                                                         |
-
 
 ## Configuration
 Use the `src/environments/environment.ts` file to adjust the following settings:
