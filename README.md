@@ -28,7 +28,7 @@ Use `ESC` to open the in app menu which will let you control the app while using
 | Buzzer 2                  | `Numpad 2`      | Selects and buzzes for team 1, the key can be configured       |
 |                           |                 |                                                                |
 | Reveal Answer #           | `1-8`           | Reveals an answer on the board                                 |
-| Reveal Answer #           | `Shift`, `1-8`  | Closes an answer on the board again                            |
+| Unreveal Answer #         | `Shift`, `1-8`  | Closes an answer on the board again                            |
 | Toggle Reveal All Answers | `Shift`, `A`    | Reveals all answer with an animation                           |
 | Strike                    | `X`             | Needs a team selected                                          |
 | Unstrike                  | `Shift`, `X`    | Needs a team selected                                          |
