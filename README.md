@@ -1,12 +1,14 @@
 # FamilyFeud
-This is a angular app to play family feud with all your friends.
-It contains a catalog of 100 questions which is easily expandable.
+This is an angular app which provides picture and sound to host a family feud party with your friends.
+It contains a catalog of 100 questions which is easily expandable. Simply install the app and run it in a chrome browser.
+Control the app with your keyboard and optionally with buzzers mapped to certain keys. 
+The app contains all the iconic sounds from the real show and three different styles of background music to go along with it.
 
 ## Run the app
-1. First you need to install node.js and then angular.cli
-2. Then install all dependencies `npm i`.
-3. Run `ng serve` for a dev server.
-For best results open the app in Chrome.
+1. Install [node.js](https://nodejs.org/en/) and then [angular.cli](https://angular.io/cli) `npm install -g @angular/cli`
+2. Install all dependencies `npm i`.
+3. Run `ng serve` for a webserver which hosts the app.
+4. Open the app in Chrome. Or run Chrome in Kiosk mode (see below)
 
 ### Start in Chrome Kiosk
 Run `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --kiosk --app=http://localhost:4200` in terminal.
@@ -17,13 +19,13 @@ Use ESC to open the in app menu which will let you control the app while using.
 ## Configuration
 Use the `src/environments/environment.ts` file to adjust the following settings:
 * Title of your show ("Family Feud")
-* Subtitle of your show ("Friends & Family edition")
-* Host: the name of who ever is hosting the show ("Steve Harvey")
+* Subtitle of your show ("Your Edition")
+* The name of the host today ("Steve Harvey")
 * Key for buzzer 1
 * Key for buzzer 2
 
 ### Key definition
-Key ids can be found here:
+Key codes can be found here:
 https://www.toptal.com/developers/keycode 
 Just press a key and copy `event.code` to `keyCode`.
 For the sake of completeness also add a shortcut description which will appear in the menu.
