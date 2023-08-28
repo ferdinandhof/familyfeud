@@ -1,0 +1,6 @@
+<div *ngIf="state && state.roundIndex >= 0; else error">
+    <app-round-view [isSecondScreen]="true" [numAnswers]="this.state!.currentRound.answers.length" [round]="state.currentRound" [roundIndex]="state.roundIndex"></app-round-view>
+</div>
+<ng-template #error>
+    <h1>No Round Selected</h1>
+</ng-template>

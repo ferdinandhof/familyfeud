@@ -1,5 +1,6 @@
 export class State { 
     public screen = Screen.start
+    public file: RoundsFile
     public rounds: Round[] = []
     public currentRound = Round.dummy()
     public roundIndex = -1
@@ -8,6 +9,8 @@ export class State {
 
     public team1 = new Team("Team 1", "#FF454E")
     public team2 = new Team("Team 2", "#71d2ff")
+
+    public secondWindow: Window | null
 
     reset() {
         this.screen = Screen.start
@@ -40,6 +43,9 @@ export class Team {
     constructor(public name: string, public color: string) {}
 }
 
+export class RoundsFile {
+    constructor(public name: string, public json: any) {}
+}
 
 export class Round {
     public isHidden = true

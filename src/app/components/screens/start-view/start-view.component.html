@@ -1,1 +1,5 @@
-<div class="instructions">Press Space to Start</div>
+<div *ngIf="file != null; else selectFile" class="instructions">Press Space to Start</div>
+<ng-template #selectFile>
+    <p>Select a valid Family Feud file.</p>
+    <app-input-file [file]="file" (fileChange)="fileChanged($event)" class="translucent"></app-input-file>
+</ng-template>

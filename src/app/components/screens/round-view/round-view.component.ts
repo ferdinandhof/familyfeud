@@ -11,6 +11,8 @@ export class RoundViewComponent implements OnInit {
   @Input() round: Round = new Round("", [])
   @Input() roundIndex: number = 0
   @Input() score: number = 0
+  @Input() isSecondScreen = false
+  @Input() numAnswers = 0
   numbers = new Array(8)
 
   constructor() { }

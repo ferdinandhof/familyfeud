@@ -1,0 +1,41 @@
+:host {
+    margin-top: 10px;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+label {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+
+    background: rgb(56, 56, 56);
+    color: rgb(142, 142, 142);
+    font-size: 13pt;
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+    border: none;
+    transition: 0.3s;
+}
+
+label:hover {
+    background: rgb(86, 86, 86);
+    color: rgb(206, 206, 206);
+}
+
+:host.translucent label{
+    background: rgba(255, 255, 255, 0.3);
+    color: white;
+}
+
+:host.translucent label:hover {
+    background: rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.5);
+}

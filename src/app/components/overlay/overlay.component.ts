@@ -1,6 +1,6 @@
 import { Component, EventEmitter, HostBinding, Input, OnInit, Output } from '@angular/core';
 import { MediaState, Music } from 'src/app/model/media';
-import { Round, State, Screen } from 'src/app/model/model';
+import { Round, State, Screen, RoundsFile } from 'src/app/model/model';
 import { environment } from 'src/environments/environment';
 import { Shorcut } from '../view/shorcut/shorcut.component';
 
@@ -18,6 +18,7 @@ export class OverlayComponent implements OnInit {
   @Input() visible = false
   @Output() visibleChange = new EventEmitter<boolean>()
   @Output() function = new EventEmitter<string>()
+  @Output() fileChange = new EventEmitter<RoundsFile>()
 
   @Input() state = new State()
   @Input() mediaState = new MediaState()
@@ -81,6 +82,18 @@ export class OverlayComponent implements OnInit {
   closeButtonTapped() {
     this.visible = false
     this.visibleChange.emit(false)
+  }
+
+  windowButtonTapped() {
+    const w = window.open("/second")
+    setTimeout(() => {
+      this.state.secondWindow = w
+    }, 1000);
+  }
+
+  selectFile(file: RoundsFile) {
+    this.state.file = file
+    this.fileChange.emit(file)
   }
 
   selectMusic(music: Music | null) {

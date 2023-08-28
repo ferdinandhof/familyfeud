@@ -1,0 +1,18 @@
+<div class="content state_{{state.screen}}">
+    <app-start-view *ngIf="state.screen == 0" [file]="state.file" (fileChange)="roundsFileLoaded($event)"></app-start-view>
+    <app-intro-view *ngIf="state.screen == 1" [mediaState]="mediaState"></app-intro-view>
+    <app-instructions-view *ngIf="state.screen == 2" [state]="state"></app-instructions-view>
+    <app-round-view *ngIf="state.screen == 3" [score]="state.tempScore" [round]="state.currentRound" [roundIndex]="state.roundIndex"></app-round-view>
+    <app-end-view *ngIf="state.screen == 4" [state]="state" [mediaState]="mediaState"></app-end-view>
+  </div>
+  
+  <div class="bar" *ngIf="state.screen != 1 && state.screen != 4 ">
+    <app-team [team]="state.team1" [alignmemt]="'left'" [ngClass]="{'active': selectedTeam == state.team1, 'buzzed': teamBuzzed}"></app-team>
+    <app-team [team]="state.team2" [alignmemt]="'right'" [ngClass]="{'active': selectedTeam == state.team2, 'buzzed': teamBuzzed}"></app-team>
+  </div>
+  
+  <div class="wrong" [ngClass]="{'visible': xVisible}">
+    <img *ngFor="let item of [].constructor(selectedTeam?.strikes ?? 1); let i = index" src="/assets/x.png"/>
+  </div>
+  
+  <app-overlay [(visible)]="isMenuVisible" [state]="state" [mediaState]="mediaState" (fileChange)="roundsFileLoaded($event)" (function)="overlayWants($event)"></app-overlay>

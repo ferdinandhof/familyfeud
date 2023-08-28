@@ -62,7 +62,20 @@
     align-items: center;
 }
 
-.menu button.close {
+.menu .bar .buttons {
+    position: absolute;
+    right: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu .bar button + button {
+    margin-left: 12px;
+}
+
+.menu .bar button{
     border: none;
     background-color: #555;
     color: white;
@@ -75,18 +88,15 @@
     height: 40px;
     border-radius: 20px;
 
-    position: absolute;
-    right: 20px;
-
     cursor: pointer;
     transition: 0.3s;
 }
 
-.menu button.close:hover {
-    background-color: #aaa;
+.menu .bar button:hover {
+    opacity: 0.6;
 }
 
-.menu button.close svg line{
+.menu .bar button svg line{
     stroke: black;
     stroke-width: 3px;
     stroke-linecap: round;

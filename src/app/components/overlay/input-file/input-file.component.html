@@ -1,0 +1,5 @@
+<input id="file-upload" type="file" (change)="getFile($event)" />
+<label for="file-upload" *ngIf="file == null; else fileTitle">Open File</label>
+<ng-template #fileTitle>
+    <label for="file-upload">{{file.name}}</label>
+</ng-template>

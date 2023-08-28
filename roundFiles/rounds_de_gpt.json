@@ -1,0 +1,664 @@
+{
+	"rounds": [
+		{
+			"round": 1,
+			"name": "Nenne ein Geschwindigkeitsbegrenzungsschild.",
+			"answers": [
+				{ "text": "100 km/h", "amount": 34 },
+				{ "text": "50 km/h", "amount": 30 },
+				{ "text": "30 km/h", "amount": 18 },
+				{ "text": "80 km/h", "amount": 10 },
+				{ "text": "120 km/h", "amount": 5 },
+				{ "text": "60 km/h", "amount": 3 }
+			]
+		},
+		{
+			"round": 2,
+			"name": "Nenne ein Gemüse.",
+			"answers": [
+				{ "text": "Tomate", "amount": 27 },
+				{ "text": "Gurke", "amount": 22 },
+				{ "text": "Karotte", "amount": 20 },
+				{ "text": "Paprika", "amount": 15 },
+				{ "text": "Zucchini", "amount": 8 },
+				{ "text": "Brokkoli", "amount": 5 },
+				{ "text": "Blumenkohl", "amount": 3 }
+			]
+		},
+		{
+			"round": 3,
+			"name": "Nenne ein Lieblingsrestaurant",
+			"answers": [
+				{ "text": "Italiener/Pizzeria", "amount": 35 },
+				{ "text": "Asiate", "amount": 22 },
+				{ "text": "Grieche", "amount": 18 },
+				{ "text": "Burger-Restaurant", "amount": 12 },
+				{ "text": "Steakhouse", "amount": 8 },
+				{ "text": "Sushi-Bar", "amount": 5 },
+				{ "text": "Mexikaner", "amount": 4 }
+			]
+		},
+		{
+			"round": 4,
+			"name": "Nenne ein Valentinstagsgeschenk.",
+			"answers": [
+				{ "text": "Blumen", "amount": 32 },
+				{ "text": "Schokolade", "amount": 25 },
+				{ "text": "Schmuck", "amount": 18 },
+				{ "text": "Parfüm", "amount": 10 },
+				{ "text": "Gutschein für ein Essen", "amount": 7 },
+				{ "text": "Liebesbrief", "amount": 5 },
+				{ "text": "Wellness-Gutschein", "amount": 3 }
+			]
+		},
+		{
+			"round": 5,
+			"name": "Nenne eine Lieblingsmarmelade.",
+			"answers": [
+				{ "text": "Erdbeermarmelade", "amount": 41 },
+				{ "text": "Himbeermarmelade", "amount": 25 },
+				{ "text": "Aprikosenmarmelade", "amount": 14 },
+				{ "text": "Orangenmarmelade", "amount": 8 },
+				{ "text": "Brombeermarmelade", "amount": 5 },
+				{ "text": "Kirschmarmelade", "amount": 4 },
+				{ "text": "Pflaumenmarmelade", "amount": 3 }
+			]
+		},
+		{
+			"round": 6,
+			"name": "Dahin wollte ich immer schonmal reisen (Urlaubsziel).",
+			"answers": [
+				{ "text": "Malediven", "amount": 32 },
+				{ "text": "USA", "amount": 26 },
+				{ "text": "Australien", "amount": 18 },
+				{ "text": "Neuseeland", "amount": 10 },
+				{ "text": "Japan", "amount": 7 },
+				{ "text": "Kanada", "amount": 5 },
+				{ "text": "Italien", "amount": 2 }
+			]
+		},
+		{
+			"round": 7,
+			"name": "Nenne ein Haustier.",
+			"answers": [
+				{ "text": "Hund", "amount": 51 },
+				{ "text": "Katze", "amount": 32 },
+				{ "text": "Kaninchen", "amount": 6 },
+				{ "text": "Meerschweinchen", "amount": 4 },
+				{ "text": "Wellensittich", "amount": 3 },
+				{ "text": "Hamster", "amount": 2 },
+				{ "text": "Schildkröte", "amount": 2 }
+			]
+		},
+		{
+			"round": 8,
+			"name": "Weswegen kriegst du Stress mit deinem Partner?",
+			"answers": [
+				{ "text": "Unordentlichkeit", "amount": 35 },
+				{ "text": "zu viel Zeit am Handy/Computer", "amount": 22 },
+				{ "text": "Streit um Geld", "amount": 18 },
+				{ "text": "zu wenig gemeinsame Zeit", "amount": 10 },
+				{ "text": "Eifersucht", "amount": 7 },
+				{ "text": "unterschiedliche Meinungen/Ansichten", "amount": 5 },
+				{ "text": "Vergesslichkeit", "amount": 3 }
+			]
+		},
+		{
+			"round": 9,
+			"name": "Verspätungsgründe der DB (Deutsche Bahn).",
+			"answers": [
+				{ "text": "Technische Störung", "amount": 40 },
+				{ "text": "Signalstörung", "amount": 28 },
+				{ "text": "Personen im Gleis", "amount": 15 },
+				{ "text": "Wetterbedingungen", "amount": 8 },
+				{ "text": "Streik", "amount": 5 },
+				{ "text": "Verspätung eines vorherigen Zugs", "amount": 3 },
+				{ "text": "Polizeieinsatz", "amount": 1 }
+			]
+		},
+		{
+			"round": 10,
+			"name": "Nenne ein Bundesland.",
+			"answers": [
+				{ "text": "Bayern", "amount": 38 },
+				{ "text": "Nordrhein-Westfalen", "amount": 26 },
+				{ "text": "Baden-Württemberg", "amount": 17 },
+				{ "text": "Niedersachsen", "amount": 9 },
+				{ "text": "Hessen", "amount": 6 },
+				{ "text": "Sachsen", "amount": 4 },
+				{ "text": "Berlin", "amount": 3 }
+			]
+		},
+		{
+			"round": 11,
+			"name": "Nenne einen Lieblingssport.",
+			"answers": [
+				{ "text": "Fußball", "amount": 43 },
+				{ "text": "Schwimmen", "amount": 21 },
+				{ "text": "Tennis", "amount": 15 },
+				{ "text": "Handball", "amount": 9 },
+				{ "text": "Laufen/Joggen", "amount": 7 },
+				{ "text": "Basketball", "amount": 4 },
+				{ "text": "Volleyball", "amount": 1 }
+			]
+		},
+		{
+			"round": 12,
+			"name": "Nenne ein Begriff von Bowling.",
+			"answers": [
+				{ "text": "Strike", "amount": 44 },
+				{ "text": "Spare", "amount": 26 },
+				{ "text": "Gutter", "amount": 12 },
+				{ "text": "Split", "amount": 8 },
+				{ "text": "Pin", "amount": 5 }
+			]
+		},
+		{
+			"round": 13,
+			"name": "Lieblingskuchen.",
+			"answers": [
+				{ "text": "Schwarzwälder Kirschtorte", "amount": 31 },
+				{ "text": "Apfelkuchen", "amount": 25 },
+				{ "text": "Käsekuchen", "amount": 19 },
+				{ "text": "Marmorkuchen", "amount": 10 },
+				{ "text": "Erdbeerkuchen", "amount": 7 },
+				{ "text": "Himbeertorte", "amount": 5 },
+				{ "text": "Nusskuchen", "amount": 3 }
+			]
+		},
+		{
+			"round": 14,
+			"name": "Von welcher Marke ist dein Auto?",
+			"answers": [
+				{ "text": "Volkswagen/VW", "amount": 38 },
+				{ "text": "BMW", "amount": 25 },
+				{ "text": "Mercedes-Benz", "amount": 18 },
+				{ "text": "Audi", "amount": 10 },
+				{ "text": "Ford", "amount": 5 },
+				{ "text": "Opel", "amount": 3 },
+				{ "text": "Toyota", "amount": 1 }
+			]
+		},
+		{
+			"round": 15,
+			"name": "Nenne ein bekanntes Kennzeichen Stadtkürzel.",
+			"answers": [
+				{ "text": "B-Berlin", "amount": 42 },
+				{ "text": "M-München", "amount": 28 },
+				{ "text": "K-Köln", "amount": 17 },
+				{ "text": "H-Hamburg", "amount": 8 },
+				{ "text": "F-Frankfurt", "amount": 4 },
+				{ "text": "S-Stuttgart", "amount": 2 },
+				{ "text": "D-Düsseldorf", "amount": 1 }
+			]
+		},
+		{
+			"round": 16,
+			"name": "Nenne einen beliebten männlichen Vornamen.",
+			"answers": [
+				{ "text": "Max", "amount": 38 },
+				{ "text": "Paul", "amount": 26 },
+				{ "text": "Leon", "amount": 17 },
+				{ "text": "Finn", "amount": 10 },
+				{ "text": "Ben", "amount": 7 },
+				{ "text": "Lukas", "amount": 5 },
+				{ "text": "Tom", "amount": 3 }
+			]
+		},
+		{
+			"round": 17,
+			"name": "Nennen einen beliebten weiblichen Vornamen.",
+			"answers": [
+				{ "text": "Mia", "amount": 31 },
+				{ "text": "Emma", "amount": 25 },
+				{ "text": "Hannah", "amount": 18 },
+				{ "text": "Sophia", "amount": 10 },
+				{ "text": "Anna", "amount": 7 },
+				{ "text": "Lina", "amount": 5 },
+				{ "text": "Emilia", "amount": 3 }
+			]
+		},
+		{
+			"round": 18,
+			"name": "Gründe fremd zu gehen.",
+			"answers": [
+				{ "text": "Unzufriedenheit in der Beziehung", "amount": 35 },
+				{ "text": "Versuchung", "amount": 22 },
+				{ "text": "Einsamkeit", "amount": 18 },
+				{ "text": "Abenteuerlust", "amount": 10 },
+				{ "text": "Alkohol/Drogen", "amount": 7 },
+				{ "text": "Rache", "amount": 5 },
+				{ "text": "Mangelndes Vertrauen", "amount": 3 }
+			]
+		},
+		{
+			"round": 19,
+			"name": "Ausrede, weil man nicht zur Familienfeier kann.",
+			"answers": [
+				{ "text": "Krankheit", "amount": 42 },
+				{ "text": "Arbeit", "amount": 28 },
+				{ "text": "Urlaub", "amount": 17 },
+				{ "text": "anderer Termin", "amount": 8 },
+				{ "text": "kein Geld für Anreise", "amount": 4 },
+				{ "text": "Wohnort zu weit weg", "amount": 2 },
+				{ "text": "Auto kaputt", "amount": 1 }
+			]
+		},
+		{
+			"round": 20,
+			"name": "Ausrede, warum man keine Hausaufgaben gemacht hat.",
+			"answers": [
+				{ "text": "Hausaufgabenheft vergessen", "amount": 40 },
+				{ "text": "keine Zeit", "amount": 26 },
+				{ "text": "Schwierigkeiten beim Verstehen der Aufgaben", "amount": 15 },
+				{ "text": "zu viel Stress", "amount": 8 },
+				{ "text": "zu viel Ablenkung", "amount": 5 },
+				{ "text": "Hausaufgaben wurden gestohlen", "amount": 3 },
+				{ "text": "Computerprobleme", "amount": 1 }
+			]
+		},
+		{
+			"round": 21,
+			"name": "Nenne einen Disney Film.",
+			"answers": [
+				{ "text": "Der König der Löwen", "amount": 35 },
+				{ "text": "Die Schöne und das Biest", "amount": 22 },
+				{ "text": "Aladdin", "amount": 18 },
+				{ "text": "Frozen - Die Eiskönigin", "amount": 10 },
+				{ "text": "Cinderella", "amount": 7 },
+				{ "text": "Arielle, die Meerjungfrau", "amount": 5 },
+				{ "text": "Dornröschen", "amount": 3 }
+			]
+		},
+		{
+			"round": 22,
+			"name": "Was macht man beim ersten Date?",
+			"answers": [
+				{ "text": "Essen gehen", "amount": 40 },
+				{ "text": "Spazieren gehen", "amount": 26 },
+				{ "text": "Kaffee trinken", "amount": 15 },
+				{ "text": "ins Kino gehen", "amount": 8 },
+				{ "text": "Bowling spielen", "amount": 5 },
+				{ "text": "Museum/Besichtigung", "amount": 3 },
+				{ "text": "Picknick im Park", "amount": 1 }
+			]
+		},
+		{
+			"round": 23,
+			"name": "Darin könnte mein Partner besser sein.",
+			"answers": [
+				{ "text": "Kommunikation", "amount": 40 },
+				{ "text": "Aufräumen/Ordnung", "amount": 26 },
+				{ "text": "Romantik", "amount": 15 },
+				{ "text": "Kochen", "amount": 8 },
+				{ "text": "Pünktlichkeit", "amount": 5 },
+				{ "text": "Zuhören", "amount": 3 },
+				{ "text": "Humor", "amount": 1 }
+			]
+		},
+		{
+			"round": 25,
+			"name": "Nenne eine bekannte Droge.",
+			"answers": [
+				{ "text": "Alkohol", "amount": 35 },
+				{ "text": "Nikotin/Zigaretten", "amount": 22 },
+				{ "text": "Marihuana", "amount": 18 },
+				{ "text": "Kokain", "amount": 10 },
+				{ "text": "Ecstasy", "amount": 7 },
+				{ "text": "Amphetamin/Speed", "amount": 5 },
+				{ "text": "LSD", "amount": 3 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine typisch deutsche Spezialität.",
+			"answers": [
+				{ "text": "Bratwurst", "amount": 42 },
+				{ "text": "Sauerkraut", "amount": 22 },
+				{ "text": "Brezel", "amount": 14 },
+				{ "text": "Schwarzwälder Kirschtorte", "amount": 8 },
+				{ "text": "Wiener Schnitzel", "amount": 5 },
+				{ "text": "Kartoffelsalat", "amount": 4 },
+				{ "text": "Sauerbraten", "amount": 3 },
+				{ "text": "Leberkäse", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie ein typisch deutsches Bier.",
+			"answers": [
+				{ "text": "Beck's", "amount": 32 },
+				{ "text": "Bitburger", "amount": 18 },
+				{ "text": "Warsteiner", "amount": 12 },
+				{ "text": "Paulaner", "amount": 9 },
+				{ "text": "Krombacher", "amount": 8 },
+				{ "text": "Erdinger", "amount": 7 },
+				{ "text": "Augustiner", "amount": 6 },
+				{ "text": "Radeberger", "amount": 4 }
+			]
+		},
+		{
+			"name": "Nennen Sie ein beliebtes deutsches Automobil.",
+			"answers": [
+				{ "text": "Volkswagen Golf", "amount": 32 },
+				{ "text": "Mercedes-Benz C-Klasse", "amount": 18 },
+				{ "text": "BMW 3er", "amount": 13 },
+				{ "text": "Audi A4", "amount": 9 },
+				{ "text": "Opel Corsa", "amount": 7 },
+				{ "text": "Ford Focus", "amount": 6 },
+				{ "text": "Porsche 911", "amount": 5 },
+				{ "text": "Volkswagen Polo", "amount": 4 }
+			]
+		},
+		{
+			"name": "Nennen Sie einen deutschen Technologiekonzern.",
+			"answers": [
+				{ "text": "Siemens", "amount": 54 },
+				{ "text": "SAP", "amount": 22 },
+				{ "text": "Bosch", "amount": 9 },
+				{ "text": "Deutsche Telekom", "amount": 6 },
+				{ "text": "Infineon", "amount": 4 },
+				{ "text": "Daimler", "amount": 3 },
+				{ "text": "Bayer", "amount": 2 },
+				{ "text": "BMW", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie einen bekannten deutschen Wissenschaftler oder eine Wissenschaftlerin.",
+			"answers": [
+				{ "text": "Albert Einstein", "amount": 48 },
+				{ "text": "Max Planck", "amount": 24 },
+				{ "text": "Marie Curie", "amount": 9 },
+				{ "text": "Alexander von Humboldt", "amount": 5 },
+				{ "text": "Carl Friedrich Gauss", "amount": 4 },
+				{ "text": "Werner Heisenberg", "amount": 3 },
+				{ "text": "Emmy Noether", "amount": 2 },
+				{ "text": "Johannes Kepler", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie einen beliebten deutschen Comedian.",
+			"answers": [
+				{ "text": "Loriot", "amount": 42 },
+				{ "text": "Otto Waalkes", "amount": 19 },
+				{ "text": "Bülent Ceylan", "amount": 13 },
+				{ "text": "Mario Barth", "amount": 9 },
+				{ "text": "Anke Engelke", "amount": 6 },
+				{ "text": "Hape Kerkeling", "amount": 5 },
+				{ "text": "Bully", "amount": 3 },
+				{ "text": "Dieter Hallervorden", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine bekannte deutsche Band.",
+			"answers": [
+				{ "text": "Die Toten Hosen", "amount": 34 },
+				{ "text": "Rammstein", "amount": 21 },
+				{ "text": "Scorpions", "amount": 11 },
+				{ "text": "Kraftwerk", "amount": 8 },
+				{ "text": "Tokio Hotel", "amount": 6 },
+				{ "text": "Wir sind Helden", "amount": 5 },
+				{ "text": "Die Fantastischen Vier", "amount": 4 },
+				{ "text": "Scooter", "amount": 3 }
+			]
+		},
+		{
+			"name": "Nennen Sie einen berühmten deutschen Philosophen.",
+			"answers": [
+				{ "text": "Immanuel Kant", "amount": 47 },
+				{ "text": "Friedrich Nietzsche", "amount": 25 },
+				{ "text": "Arthur Schopenhauer", "amount": 10 },
+				{ "text": "Karl Marx", "amount": 7 },
+				{ "text": "Martin Heidegger", "amount": 4 },
+				{ "text": "Gottfried Wilhelm Leibniz", "amount": 3 },
+				{ "text": "Hannah Arendt", "amount": 2 },
+				{ "text": "Jürgen Habermas", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie ein typisches deutsches Weihnachtsgebäck.",
+			"answers": [
+				{ "text": "Lebkuchen", "amount": 38 },
+				{ "text": "Stollen", "amount": 25 },
+				{ "text": "Plätzchen", "amount": 14 }
+			]
+		},
+		{
+			"name": "Nennen Sie einen deutschen Nationalspieler im Fußball.",
+			"answers": [
+				{ "text": "Miroslav Klose", "amount": 36 },
+				{ "text": "Bastian Schweinsteiger", "amount": 18 },
+				{ "text": "Lothar Matthäus", "amount": 12 },
+				{ "text": "Oliver Kahn", "amount": 9 },
+				{ "text": "Philipp Lahm", "amount": 6 },
+				{ "text": "Thomas Müller", "amount": 5 },
+				{ "text": "Michael Ballack", "amount": 4 },
+				{ "text": "Franz Beckenbauer", "amount": 3 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine bekannte deutsche TV-Serie.",
+			"answers": [
+				{ "text": "Tatort", "amount": 38 },
+				{ "text": "Lindenstraße", "amount": 22 },
+				{ "text": "Alarm für Cobra 11", "amount": 14 },
+				{ "text": "Der Bergdoktor", "amount": 9 },
+				{ "text": "Gute Zeiten, schlechte Zeiten (GZSZ)", "amount": 6 },
+				{ "text": "Stromberg", "amount": 5 },
+				{ "text": "Pastewka", "amount": 4 },
+				{ "text": "Babylon Berlin", "amount": 3 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine bekannte deutsche Sängerin.",
+			"answers": [
+				{ "text": "Helene Fischer", "amount": 37 },
+				{ "text": "Nena", "amount": 22 },
+				{ "text": "Sarah Connor", "amount": 14 },
+				{ "text": "Lena Meyer-Landrut", "amount": 9 },
+				{ "text": "Andrea Berg", "amount": 6 },
+				{ "text": "Anita Mui", "amount": 5 },
+				{ "text": "Ina Müller", "amount": 4 },
+				{ "text": "Cassandra Steen", "amount": 3 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine typisch deutsche Angewohnheit.",
+			"answers": [
+				{ "text": "Pünktlichkeit", "amount": 31 },
+				{ "text": "Gründlichkeit", "amount": 25 },
+				{ "text": "Ordnungsliebe", "amount": 20 },
+				{ "text": "Biertrinken", "amount": 11 },
+				{ "text": "Bratwurst essen", "amount": 5 },
+				{ "text": "Immer über das Wetter reden", "amount": 4 },
+				{ "text": "Sich über alles beschweren", "amount": 3 },
+				{ "text": "Schlangestehen", "amount": 1 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine typisch deutsche Angewohnheit.",
+			"answers": [
+				{ "text": "Pünktlichkeit", "amount": 31 },
+				{ "text": "Gründlichkeit", "amount": 25 },
+				{ "text": "Ordnungsliebe", "amount": 20 },
+				{ "text": "Biertrinken", "amount": 11 },
+				{ "text": "Grillen", "amount": 5 },
+				{ "text": "Immer über das Wetter reden", "amount": 4 },
+				{ "text": "Sich über alles beschweren", "amount": 3 },
+				{ "text": "Schlangestehen", "amount": 1 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine typisch deutsche Redewendung.",
+			"answers": [
+				{ "text": "Das ist nicht mein Bier", "amount": 29 },
+				{ "text": "Da liegt der Hund begraben", "amount": 21 },
+				{ "text": "Jetzt mal Butter bei die Fische", "amount": 13 },
+				{ "text": "Ich glaub, mein Schwein pfeift", "amount": 9 },
+				{ "text": "Alles hat ein Ende, nur die Wurst hat zwei", "amount": 6 },
+				{ "text": "Tomaten auf den Augen haben", "amount": 5 },
+				{ "text": "Du bist nicht auf den Kopf gefallen", "amount": 4 },
+				{ "text": "Da steppt der Bär", "amount": 3 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine deutsche Köstlichkeit.",
+			"answers": [
+				{ "text": "Sauerkraut", "amount": 32 },
+				{ "text": "Currywurst", "amount": 22 },
+				{ "text": "Schnitzel", "amount": 18 },
+				{ "text": "Brezn", "amount": 11 },
+				{ "text": "Spätzle", "amount": 7 },
+				{ "text": "Schwarzwälder Kirschtorte", "amount": 5 },
+				{ "text": "Döner Kebab", "amount": 3 },
+				{ "text": "Leberkäse", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie einen deutschen Erfinder.",
+			"answers": [
+				{ "text": "Johannes Gutenberg", "amount": 45 },
+				{ "text": "Albert Einstein", "amount": 25 },
+				{ "text": "Karl Benz", "amount": 15 },
+				{ "text": "Wilhelm Conrad Röntgen", "amount": 5 },
+				{ "text": "Heinrich Hertz", "amount": 4 },
+				{ "text": "Gottlieb Daimler", "amount": 3 },
+				{ "text": "Konrad Zuse", "amount": 2 },
+				{ "text": "Wernher von Braun", "amount": 1 }
+			]
+		},
+		{
+			"name": "Nenne eine beliebte Urlaubsinsel.",
+			"answers": [
+				{ "text": "Mallorca", "amount": 32 },
+				{ "text": "Bali", "amount": 25 },
+				{ "text": "Malediven", "amount": 14 },
+				{ "text": "Santorini", "amount": 9 },
+				{ "text": "Hawaii", "amount": 6 },
+				{ "text": "Sardinien", "amount": 5 },
+				{ "text": "Kreta", "amount": 3 },
+				{ "text": "Fuerteventura", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie ein typisches Souvenir, das Deutsche aus dem Ausland mitbringen.",
+			"answers": [
+				{ "text": "Schlüsselanhänger", "amount": 35 },
+				{ "text": "Magnet", "amount": 22 },
+				{ "text": "T-Shirt", "amount": 14 },
+				{ "text": "Postkarte", "amount": 7 },
+				{ "text": "Wein", "amount": 5 },
+				{ "text": "Schokolade", "amount": 3 },
+				{ "text": "Sand vom Strand", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine bekannte Sehenswürdigkeit.",
+			"answers": [
+				{ "text": "Eiffelturm (Paris, Frankreich)", "amount": 35 },
+				{ "text": "Colosseum (Rom, Italien)", "amount": 21 },
+				{ "text": "Pyramiden von Gizeh (Ägypten)", "amount": 15 },
+				{ "text": "Akropolis (Athen, Griechenland)", "amount": 10 },
+				{ "text": "Statue of Liberty (New York, USA)", "amount": 8 },
+				{ "text": "Brandenburger Tor (Berlin, Deutschland)", "amount": 4 },
+				{ "text": "Big Ben (London, England)", "amount": 3 },
+				{ "text": "Taj Mahal (Indien)", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie eine berühmte internationale Metropole.",
+			"answers": [
+				{ "text": "New York", "amount": 45 },
+				{ "text": "Paris", "amount": 22 },
+				{ "text": "London", "amount": 14 },
+				{ "text": "Tokio", "amount": 8 },
+				{ "text": "Rom", "amount": 5 },
+				{ "text": "Sydney", "amount": 3 },
+				{ "text": "Peking", "amount": 2 },
+				{ "text": "Dubai", "amount": 1 }
+			]
+		},
+		{
+			"name": "Nennen Sie ein beliebtes internationales Fest oder eine Veranstaltung.",
+			"answers": [
+				{ "text": "Oktoberfest (München, Deutschland)", "amount": 35 },
+				{ "text": "Karneval (Rio de Janeiro, Brasilien)", "amount": 22 },
+				{ "text": "Carnival (Venedig, Italien)", "amount": 14 },
+				{ "text": "St. Patrick's Day (Dublin, Irland)", "amount": 9 },
+				{ "text": "La Tomatina (Buñol, Spanien)", "amount": 6 },
+				{ "text": "Diwali (Indien)", "amount": 5 },
+				{ "text": "Chinese New Year (China)", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie einen deutschen Rapper oder eine Rapperin.",
+			"answers": [
+				{ "text": "Bushido", "amount": 38 },
+				{ "text": "Sido", "amount": 25 },
+				{ "text": "Casper", "amount": 14 },
+				{ "text": "Kollegah", "amount": 9 },
+				{ "text": "Capital Bra", "amount": 6 },
+				{ "text": "Cro", "amount": 5 },
+				{ "text": "Haftbefehl", "amount": 3 },
+				{ "text": "Marteria", "amount": 2 }
+			]
+		},
+		{
+			"name": "Nennen Sie einen bekannten deutschen Popsong.",
+			"answers": [
+				{ "text": "Atemlos durch die Nacht (Helene Fischer)", "amount": 35 },
+				{ "text": "99 Luftballons (Nena)", "amount": 22 },
+				{ "text": "Stadt (Cassandra Steen ft. Adel Tawil)", "amount": 14 },
+				{ "text": "Auf uns (Andreas Bourani)", "amount": 9 },
+				{ "text": "Stimme (Eff)", "amount": 6 },
+				{ "text": "Traum (Cro)", "amount": 5 },
+				{ "text": "Auf dem Weg (Mark Forster)", "amount": 3 },
+				{ "text": "Lieblingsmensch (Namika)", "amount": 2 }
+			]
+		},
+		{
+		    "name": "Nennen Sie eine deutsche Stadt, die für ihr Bier bekannt ist.",
+		    "answers": [
+		        { "text": "München", "amount": 46 },
+		        { "text": "Köln", "amount": 25 },
+		        { "text": "Hamburg", "amount": 13 },
+		        { "text": "Berlin", "amount": 6 },
+		        { "text": "Düsseldorf", "amount": 5 },
+		        { "text": "Stuttgart", "amount": 3 }
+		    ]
+		},
+		{
+		    "name": "Nennen Sie ein typisch deutsches Hobby.",
+		    "answers": [
+		        { "text": "Fußball", "amount": 37 },
+		        { "text": "Wanderungen/Spaziergänge", "amount": 21 },
+		        { "text": "Bier trinken", "amount": 16 },
+		        { "text": "Gartenarbeit", "amount": 10 },
+		        { "text": "Angeln", "amount": 5 },
+		        { "text": "Modellbau", "amount": 4 },
+		        { "text": "Schach", "amount": 2 }
+		    ]
+		},
+		{
+		    "name": "Nennen Sie ein berühmtes deutsches Märchen.",
+		    "answers": [
+		        { "text": "Aschenputtel", "amount": 25 },
+		        { "text": "Schneewittchen", "amount": 22 },
+		        { "text": "Hänsel und Gretel", "amount": 19 },
+		        { "text": "Rotkäppchen", "amount": 17 },
+		        { "text": "Dornröschen", "amount": 7 },
+		        { "text": "Rumpelstilzchen", "amount": 6 },
+		        { "text": "Der Froschkönig", "amount": 4 }
+		    ]
+		},
+		{
+		    "name": "Nennen Sie ein typisches deutsches Getränk.",
+		    "answers": [
+		        { "text": "Bier", "amount": 66 },
+		        { "text": "Kaffee", "amount": 17 },
+		        { "text": "Apfelsaftschorle", "amount": 8 },
+		        { "text": "Glühwein", "amount": 4 },
+		        { "text": "Wein", "amount": 3 },
+		        { "text": "Mineralwasser", "amount": 2 }
+		    ]
+		}
+	]
+}

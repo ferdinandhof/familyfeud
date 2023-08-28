@@ -1,12 +1,14 @@
 <div class="menu">
     <div class="bar">
         <h1>Menu</h1>
-        <button class="close" (click)="closeButtonTapped()">
-            <svg width="18px" height="18px" viewBox="0 0 18 18">
-                <line x1="2.35" y1="2.35" x2="15.65" y2="15.65"></line>
-                <line x1="15.65" y1="2.35" x2="2.35" y2="15.65"></line>
-            </svg>
-        </button>
+        <div class="buttons">
+            <button alt="Open second window" (click)="windowButtonTapped()">
+                <img src="assets/button_window.png"/>
+            </button>
+            <button (click)="closeButtonTapped()">
+                <img src="assets/button_close.png"/>
+            </button>
+        </div>
     </div>
     <div class="options">
         <div class="horizontal equal">
@@ -32,6 +34,7 @@
         <app-section [title]="'Screen & Rounds'">
             <app-input-enum [options]="screens" [selectedType]="state.screen" (selectedTypeChange)="selectScreen($event)"></app-input-enum>
             <app-input-round [rounds]="state.rounds" [selectedRound]="state.currentRound" (selectedRoundChange)="selectRound($event)"></app-input-round>
+            <app-input-file [file]="state.file" (fileChange)="selectFile($event)"></app-input-file>
         </app-section>
 
         <app-section [title]="'Shortcuts'">

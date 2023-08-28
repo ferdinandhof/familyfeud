@@ -9,6 +9,14 @@
     animation: rotate 3.0s ease-in-out infinite;
 }
 
+p {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+
+    color: rgba(255,255,255,0.5);
+}
+
 
 @keyframes rotate {
     0% {
